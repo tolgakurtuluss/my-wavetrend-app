@@ -1,19 +1,41 @@
-# 🎈 Blank app template
+# WaveTrend Pro
 
-A simple Streamlit app template for you to modify!
+**BIST 100 & Global Hisse Analizi için WaveTrend Strateji Aracı**
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+![WaveTrend Pro](https://via.placeholder.com/800x400.png?text=WaveTrend+Pro)  
+*WaveTrend göstergesi ile AL/SAT sinyalleri ve portföy performansı analizi*
 
-### How to run it on your own machine
+---
 
-1. Install the requirements
+## Özellikler
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+- **BIST 100 / Amerika hisseleri + şirket adları** (AAPL, BTC-USD, THYAO.IS vb.)
+- **WaveTrend + Awesome Oscillator** görselleştirme
+- **Backtest & Portföy Büyümesi** grafiği
+- **İşlem geçmişi & CSV indirme**
+- **Tamamen ücretsiz & açık kaynak**
 
-2. Run the app
+---
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Canlı Demo
+
+[WaveTrend Pro'yu Deneyin](https://my-wavetrend-app.streamlit.app/)
+
+---
+
+## Kurulum (Yerel)
+
+```bash
+# 1. Repoyu klonla
+git clone https://github.com/kullanici/wavetrend-pro.git
+cd wavetrend-pro
+
+# 2. Sanal ortam oluştur
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+# 3. Gerekli paketleri kur
+pip install -r requirements.txt
+
+# 4. Uygulamayı başlat
+streamlit run streamlit_app.py
