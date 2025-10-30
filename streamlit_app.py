@@ -452,7 +452,7 @@ else:
 st.markdown("---")
 st.markdown(
     "<p style='text-align: center; color: #888; font-size: 0.9rem;'>"
-    "© 2025 WaveTrend Pro • Veri: Yahoo Finance • <a href='https://github.com/tolgaakurtuluss/my-wavetrend-app' target='_blank'>GitHub</a>"
+    "© 2025 WaveTrend Pro • Veri: Yahoo Finance • <a href='https://github.com/tolgakurtuluss/my-wavetrend-app' target='_blank'>GitHub</a>"
     "</p>",
     unsafe_allow_html=True,
 )
