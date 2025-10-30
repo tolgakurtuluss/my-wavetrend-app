@@ -1,0 +1,4486 @@
+[
+  {
+    "stockname":"A1CAP.IS",
+    "company":"A1 Capital"
+  },
+  {
+    "stockname":"A1YEN.IS",
+    "company":"Kartal Yenilenebili Enerji"
+  },
+  {
+    "stockname":"ACSEL.IS",
+    "company":"Acıselsan Acıpayam Selüloz"
+  },
+  {
+    "stockname":"ADEL.IS",
+    "company":"Adel Kalemcilik"
+  },
+  {
+    "stockname":"ADESE.IS",
+    "company":"Adese AVM"
+  },
+  {
+    "stockname":"ADGYO.IS",
+    "company":"Adra GYO"
+  },
+  {
+    "stockname":"AEFES.IS",
+    "company":"Anadolu Efes"
+  },
+  {
+    "stockname":"AFYON.IS",
+    "company":"Afyon Çimento"
+  },
+  {
+    "stockname":"AGESA.IS",
+    "company":"Agesa Hayat ve Emeklilik"
+  },
+  {
+    "stockname":"AGHOL.IS",
+    "company":"Anadolu Grubu Holding"
+  },
+  {
+    "stockname":"AGROT.IS",
+    "company":"Agrotech Yüksek Teknoloji"
+  },
+  {
+    "stockname":"AGYO.IS",
+    "company":"Atakule GYO"
+  },
+  {
+    "stockname":"AHGAZ.IS",
+    "company":"Ahlatçı Doğalgaz"
+  },
+  {
+    "stockname":"AHSGY.IS",
+    "company":"Ahes GYO"
+  },
+  {
+    "stockname":"AKBNK.IS",
+    "company":"Akbank"
+  },
+  {
+    "stockname":"AKCNS.IS",
+    "company":"Akçansa"
+  },
+  {
+    "stockname":"AKENR.IS",
+    "company":"Akenerji"
+  },
+  {
+    "stockname":"AKFGY.IS",
+    "company":"Akfen GYO"
+  },
+  {
+    "stockname":"AKFIS.IS",
+    "company":"Akfen İnşaat"
+  },
+  {
+    "stockname":"AKFYE.IS",
+    "company":"Akfen Yenilenebilir Enerji"
+  },
+  {
+    "stockname":"AKGRT.IS",
+    "company":"Aksigorta"
+  },
+  {
+    "stockname":"AKMGY.IS",
+    "company":"Akmerkez GYO"
+  },
+  {
+    "stockname":"AKSA.IS",
+    "company":"Aksa"
+  },
+  {
+    "stockname":"AKSEN.IS",
+    "company":"Aksa Enerji"
+  },
+  {
+    "stockname":"AKSGY.IS",
+    "company":"Akis GYO"
+  },
+  {
+    "stockname":"AKSUE.IS",
+    "company":"Aksu Enerji"
+  },
+  {
+    "stockname":"AKYHO.IS",
+    "company":"Akdeniz Yatırım Holding"
+  },
+  {
+    "stockname":"ALARK.IS",
+    "company":"Alarko Holding"
+  },
+  {
+    "stockname":"ALBRK.IS",
+    "company":"Albaraka Türk"
+  },
+  {
+    "stockname":"ALCAR.IS",
+    "company":"Alarko Carrier"
+  },
+  {
+    "stockname":"ALCTL.IS",
+    "company":"Alcatel Teletaş"
+  },
+  {
+    "stockname":"ALFAS.IS",
+    "company":"Alfa Solar"
+  },
+  {
+    "stockname":"ALGYO.IS",
+    "company":"Alarko GYO"
+  },
+  {
+    "stockname":"ALKA.IS",
+    "company":"Alkim Kağıt"
+  },
+  {
+    "stockname":"ALKIM.IS",
+    "company":"Alkim"
+  },
+  {
+    "stockname":"ALKLC.IS",
+    "company":"Altınkılıç Gıda"
+  },
+  {
+    "stockname":"ALTNY.IS",
+    "company":"Altınay Savunma"
+  },
+  {
+    "stockname":"ALVES.IS",
+    "company":"Alves Kablo"
+  },
+  {
+    "stockname":"ANELE.IS",
+    "company":"Anel Elektrik"
+  },
+  {
+    "stockname":"ANGEN.IS",
+    "company":"Anatolia Biyoteknoloji"
+  },
+  {
+    "stockname":"ANHYT.IS",
+    "company":"Anadolu Hayat Emeklilik A.Ş."
+  },
+  {
+    "stockname":"ANSGR.IS",
+    "company":"Anadolu Sigorta"
+  },
+  {
+    "stockname":"ARASE.IS",
+    "company":"Doğu Aras Enerji"
+  },
+  {
+    "stockname":"ARCLK.IS",
+    "company":"Arçelik"
+  },
+  {
+    "stockname":"ARDYZ.IS",
+    "company":"ARD Grup Bilişim"
+  },
+  {
+    "stockname":"ARENA.IS",
+    "company":"Arena Bilgisayar"
+  },
+  {
+    "stockname":"ARMGD.IS",
+    "company":"Armada Gıda"
+  },
+  {
+    "stockname":"ARSAN.IS",
+    "company":"Arsan Tekstil"
+  },
+  {
+    "stockname":"ARTMS.IS",
+    "company":"Artemis Halı"
+  },
+  {
+    "stockname":"ARZUM.IS",
+    "company":"Arzum Ev Aletleri"
+  },
+  {
+    "stockname":"ASELS.IS",
+    "company":"Aselsan"
+  },
+  {
+    "stockname":"ASGYO.IS",
+    "company":"Asce GYO"
+  },
+  {
+    "stockname":"ASTOR.IS",
+    "company":"Astor Enerji"
+  },
+  {
+    "stockname":"ASUZU.IS",
+    "company":"Anadolu Isuzu"
+  },
+  {
+    "stockname":"ATAGY.IS",
+    "company":"Ata GYO"
+  },
+  {
+    "stockname":"ATAKP.IS",
+    "company":"Atakey Patates"
+  },
+  {
+    "stockname":"ATATP.IS",
+    "company":"ATP Bilgisayar"
+  },
+  {
+    "stockname":"ATEKS.IS",
+    "company":"Akın Tekstil"
+  },
+  {
+    "stockname":"ATLAS.IS",
+    "company":"Atlas YO"
+  },
+  {
+    "stockname":"ATSYH.IS",
+    "company":"Atlantis YO"
+  },
+  {
+    "stockname":"AVGYO.IS",
+    "company":"Avrasya YO"
+  },
+  {
+    "stockname":"AVHOL.IS",
+    "company":"Avrupa Yatırım Holding"
+  },
+  {
+    "stockname":"AVOD.IS",
+    "company":"Avod Kurutulmuş Gıda"
+  },
+  {
+    "stockname":"AVPGY.IS",
+    "company":"Avrupakent GYO"
+  },
+  {
+    "stockname":"AVTUR.IS",
+    "company":"Avrasya Petrol&Turistik Tesis"
+  },
+  {
+    "stockname":"AYCES.IS",
+    "company":"Altınyunus Çesme"
+  },
+  {
+    "stockname":"AYDEM.IS",
+    "company":"Aydem Enerji"
+  },
+  {
+    "stockname":"AYEN.IS",
+    "company":"Ayen Enerji"
+  },
+  {
+    "stockname":"AYES.IS",
+    "company":"Ayes Çelik Hasır & Çit"
+  },
+  {
+    "stockname":"AYGAZ.IS",
+    "company":"Aygaz"
+  },
+  {
+    "stockname":"AZTEK.IS",
+    "company":"Aztek Teknoloji"
+  },
+  {
+    "stockname":"BAGFS.IS",
+    "company":"Bandırma Gübre Fabrikaları A.Ş"
+  },
+  {
+    "stockname":"BAHKM.IS",
+    "company":"Bahadır Kimya"
+  },
+  {
+    "stockname":"BAKAB.IS",
+    "company":"Bak Ambalaj"
+  },
+  {
+    "stockname":"BALAT.IS",
+    "company":"Balatacılar Balatacılık"
+  },
+  {
+    "stockname":"BALSU.IS",
+    "company":"Balsu Gıda"
+  },
+  {
+    "stockname":"BANVT.IS",
+    "company":"Banvit"
+  },
+  {
+    "stockname":"BARMA.IS",
+    "company":"Barem Ambalaj"
+  },
+  {
+    "stockname":"BASCM.IS",
+    "company":"Baştaş Başkent Çimento Sanayi"
+  },
+  {
+    "stockname":"BASGZ.IS",
+    "company":"Başkent Doğalgaz"
+  },
+  {
+    "stockname":"BAYRK.IS",
+    "company":"Bayrak EBT Taban"
+  },
+  {
+    "stockname":"BEGYO.IS",
+    "company":"Batı Ege GYO"
+  },
+  {
+    "stockname":"BERA.IS",
+    "company":"Bera Holding"
+  },
+  {
+    "stockname":"BESLR.IS",
+    "company":"Besler Gıda"
+  },
+  {
+    "stockname":"BEYAZ.IS",
+    "company":"Beyaz Filo"
+  },
+  {
+    "stockname":"BFREN.IS",
+    "company":"Bosch Fren"
+  },
+  {
+    "stockname":"BIENY.IS",
+    "company":"Bien Yapı"
+  },
+  {
+    "stockname":"BIGCH.IS",
+    "company":"BigChefs"
+  },
+  {
+    "stockname":"BIGEN.IS",
+    "company":"Birleşim Grup Enerji"
+  },
+  {
+    "stockname":"BIMAS.IS",
+    "company":"Bim Birleşik Mağazalar A.Ş"
+  },
+  {
+    "stockname":"BINBN.IS",
+    "company":"BinBin"
+  },
+  {
+    "stockname":"BINHO.IS",
+    "company":"1000 Yatırımlar"
+  },
+  {
+    "stockname":"BIOEN.IS",
+    "company":"Biotrend Enerji"
+  },
+  {
+    "stockname":"BIZIM.IS",
+    "company":"Bizim Toptan"
+  },
+  {
+    "stockname":"BJKAS.IS",
+    "company":"Beşiktaş"
+  },
+  {
+    "stockname":"BLCYT.IS",
+    "company":"Bilici Yatırım"
+  },
+  {
+    "stockname":"BLUME.IS",
+    "company":"Blume Metal Kimya"
+  },
+  {
+    "stockname":"BMSCH.IS",
+    "company":"BMS Çelik Hasır"
+  },
+  {
+    "stockname":"BMSTL.IS",
+    "company":"BMS Birleşik Metal"
+  },
+  {
+    "stockname":"BNTAS.IS",
+    "company":"Bantaş Bandırma Ambalaj"
+  },
+  {
+    "stockname":"BOBET.IS",
+    "company":"Boğaziçi Beton"
+  },
+  {
+    "stockname":"BORLS.IS",
+    "company":"Borlease Otomotiv"
+  },
+  {
+    "stockname":"BORSK.IS",
+    "company":"Bor Şeker"
+  },
+  {
+    "stockname":"BOSSA.IS",
+    "company":"Bossa"
+  },
+  {
+    "stockname":"BRISA.IS",
+    "company":"Brisa"
+  },
+  {
+    "stockname":"BRKO.IS",
+    "company":"Birko Mensucat"
+  },
+  {
+    "stockname":"BRKSN.IS",
+    "company":"Berkosan Yalıtım"
+  },
+  {
+    "stockname":"BRKVY.IS",
+    "company":"Birikim Varlık"
+  },
+  {
+    "stockname":"BRLSM.IS",
+    "company":"Birlesim Mühendislik"
+  },
+  {
+    "stockname":"BRMEN.IS",
+    "company":"Birlik Mensucat"
+  },
+  {
+    "stockname":"BRSAN.IS",
+    "company":"Borusan Birleşik Boru Fab."
+  },
+  {
+    "stockname":"BRYAT.IS",
+    "company":"Borusan Yatırım"
+  },
+  {
+    "stockname":"BSOKE.IS",
+    "company":"Batı Söke Çimento"
+  },
+  {
+    "stockname":"BTCIM.IS",
+    "company":"Batıçim"
+  },
+  {
+    "stockname":"BUCIM.IS",
+    "company":"Bursa Çimento"
+  },
+  {
+    "stockname":"BULGS.IS",
+    "company":"Bulls GSYO"
+  },
+  {
+    "stockname":"BURCE.IS",
+    "company":"Burçelik"
+  },
+  {
+    "stockname":"BURVA.IS",
+    "company":"Burçelik Vana Sanayii"
+  },
+  {
+    "stockname":"BVSAN.IS",
+    "company":"Bülbüloğlu Vinç"
+  },
+  {
+    "stockname":"BYDNR.IS",
+    "company":"Baydöner"
+  },
+  {
+    "stockname":"CANTE.IS",
+    "company":"Çan2 Termik A.S"
+  },
+  {
+    "stockname":"CASA.IS",
+    "company":"Casa Emtia Petrol Kim.Tür.AŞ"
+  },
+  {
+    "stockname":"CATES.IS",
+    "company":"Çates Elektrik"
+  },
+  {
+    "stockname":"CCOLA.IS",
+    "company":"Coca-Cola İçecek A.Ş"
+  },
+  {
+    "stockname":"CELHA.IS",
+    "company":"Çelik Halat"
+  },
+  {
+    "stockname":"CEMAS.IS",
+    "company":"Çemaş Döküm"
+  },
+  {
+    "stockname":"CEMTS.IS",
+    "company":"Çemtas"
+  },
+  {
+    "stockname":"CEMZY.IS",
+    "company":"Cem Zeytin"
+  },
+  {
+    "stockname":"CEOEM.IS",
+    "company":"CEO Event Medya"
+  },
+  {
+    "stockname":"CGCAM.IS",
+    "company":"Çağdaş Cam"
+  },
+  {
+    "stockname":"CIMSA.IS",
+    "company":"Çimsa"
+  },
+  {
+    "stockname":"CLEBI.IS",
+    "company":"Çelebi"
+  },
+  {
+    "stockname":"CMBTN.IS",
+    "company":"Çimbeton"
+  },
+  {
+    "stockname":"CMENT.IS",
+    "company":"Çimentaş"
+  },
+  {
+    "stockname":"CONSE.IS",
+    "company":"Consus Enerji"
+  },
+  {
+    "stockname":"COSMO.IS",
+    "company":"Cosmos Yatırım Holding"
+  },
+  {
+    "stockname":"CRDFA.IS",
+    "company":"Creditwest Faktoring"
+  },
+  {
+    "stockname":"CRFSA.IS",
+    "company":"Carrefoursa"
+  },
+  {
+    "stockname":"CUSAN.IS",
+    "company":"Çuhadaroğlu Metal"
+  },
+  {
+    "stockname":"CVKMD.IS",
+    "company":"Cvk Maden"
+  },
+  {
+    "stockname":"CWENE.IS",
+    "company":"Cw Enerji"
+  },
+  {
+    "stockname":"DAGI.IS",
+    "company":"Dagi Giyim"
+  },
+  {
+    "stockname":"DAPGM.IS",
+    "company":"Dap Gayrimenkul"
+  },
+  {
+    "stockname":"DARDL.IS",
+    "company":"Dardanel"
+  },
+  {
+    "stockname":"DCTTR.IS",
+    "company":"Dct Trading"
+  },
+  {
+    "stockname":"DENGE.IS",
+    "company":"Denge Holding"
+  },
+  {
+    "stockname":"DERHL.IS",
+    "company":"Derlüks Yatırım Holding"
+  },
+  {
+    "stockname":"DERIM.IS",
+    "company":"Derimod"
+  },
+  {
+    "stockname":"DESA.IS",
+    "company":"Desa Deri Sanayii"
+  },
+  {
+    "stockname":"DESPC.IS",
+    "company":"Despec Bilgisayar"
+  },
+  {
+    "stockname":"DEVA.IS",
+    "company":"Deva Holding"
+  },
+  {
+    "stockname":"DGATE.IS",
+    "company":"Datagate"
+  },
+  {
+    "stockname":"DGGYO.IS",
+    "company":"Doğuş GYO"
+  },
+  {
+    "stockname":"DGNMO.IS",
+    "company":"Doğanlar Mobilya"
+  },
+  {
+    "stockname":"DIRIT.IS",
+    "company":"Diriteks Diriliş Tekstil"
+  },
+  {
+    "stockname":"DITAS.IS",
+    "company":"Ditaş Doğan"
+  },
+  {
+    "stockname":"DMRGD.IS",
+    "company":"DMR Unlu Mamüller"
+  },
+  {
+    "stockname":"DMSAS.IS",
+    "company":"Demisaş"
+  },
+  {
+    "stockname":"DNISI.IS",
+    "company":"Dinamik Isı Yalıtım"
+  },
+  {
+    "stockname":"DOAS.IS",
+    "company":"Doğuş Otomotiv"
+  },
+  {
+    "stockname":"DOBUR.IS",
+    "company":"Big Medya"
+  },
+  {
+    "stockname":"DOCO.IS",
+    "company":"DO & CO Aktiengesellschaft"
+  },
+  {
+    "stockname":"DOFER.IS",
+    "company":"Dofer Yapı"
+  },
+  {
+    "stockname":"DOFRB.IS",
+    "company":"Dof Robotik"
+  },
+  {
+    "stockname":"DOGUB.IS",
+    "company":"Doğusan"
+  },
+  {
+    "stockname":"DOHOL.IS",
+    "company":"Doğan Holding"
+  },
+  {
+    "stockname":"DOKTA.IS",
+    "company":"Döktaş Dökümcülük"
+  },
+  {
+    "stockname":"DSTKF.IS",
+    "company":"Destek Finans Faktoring"
+  },
+  {
+    "stockname":"DUNYH.IS",
+    "company":"Dünya Holding"
+  },
+  {
+    "stockname":"DURDO.IS",
+    "company":"Duran Doğan Basım"
+  },
+  {
+    "stockname":"DURKN.IS",
+    "company":"Durukan Şekerleme"
+  },
+  {
+    "stockname":"DYOBY.IS",
+    "company":"DYO Boya"
+  },
+  {
+    "stockname":"DZGYO.IS",
+    "company":"Deniz GYO"
+  },
+  {
+    "stockname":"EBEBK.IS",
+    "company":"Ebebek"
+  },
+  {
+    "stockname":"ECILC.IS",
+    "company":"Eczacıbaşı İlaç"
+  },
+  {
+    "stockname":"ECZYT.IS",
+    "company":"Eczacıbaşı Yatırım"
+  },
+  {
+    "stockname":"EDATA.IS",
+    "company":"E-Data Teknoloji"
+  },
+  {
+    "stockname":"EDIP.IS",
+    "company":"Edip Gayrimenkul Yat. San."
+  },
+  {
+    "stockname":"EFORC.IS",
+    "company":"Efor Yat. San."
+  },
+  {
+    "stockname":"EGEEN.IS",
+    "company":"Ege Endüstri"
+  },
+  {
+    "stockname":"EGEGY.IS",
+    "company":"Egeyapı GYO"
+  },
+  {
+    "stockname":"EGEPO.IS",
+    "company":"Egepol Hastanesi"
+  },
+  {
+    "stockname":"EGGUB.IS",
+    "company":"Ege Gübre"
+  },
+  {
+    "stockname":"EGPRO.IS",
+    "company":"Ege Profil"
+  },
+  {
+    "stockname":"EGSER.IS",
+    "company":"Ege Seramik"
+  },
+  {
+    "stockname":"EKGYO.IS",
+    "company":"Emlak Konut GYO"
+  },
+  {
+    "stockname":"EKIZ.IS",
+    "company":"Ekiz Yağ ve Sabun"
+  },
+  {
+    "stockname":"EKOS.IS",
+    "company":"Ekos Teknoloji"
+  },
+  {
+    "stockname":"EKSUN.IS",
+    "company":"Eksun Gıda"
+  },
+  {
+    "stockname":"ELITE.IS",
+    "company":"Elite Organik Gıda"
+  },
+  {
+    "stockname":"EMKEL.IS",
+    "company":"Emek Elektrik"
+  },
+  {
+    "stockname":"EMNIS.IS",
+    "company":"Eminiş Ambalaj"
+  },
+  {
+    "stockname":"ENDAE.IS",
+    "company":"Enda Enerji"
+  },
+  {
+    "stockname":"ENERY.IS",
+    "company":"Enerya Enerji"
+  },
+  {
+    "stockname":"ENJSA.IS",
+    "company":"Enerjisa Enerji"
+  },
+  {
+    "stockname":"ENKAI.IS",
+    "company":"Enka İnşaat"
+  },
+  {
+    "stockname":"ENSRI.IS",
+    "company":"Ensari Deri"
+  },
+  {
+    "stockname":"ENTRA.IS",
+    "company":"Ic Enterra Yenilenebilir"
+  },
+  {
+    "stockname":"EPLAS.IS",
+    "company":"Egeplast"
+  },
+  {
+    "stockname":"ERBOS.IS",
+    "company":"Erbosan"
+  },
+  {
+    "stockname":"ERCB.IS",
+    "company":"Erciyas Çelik Boru"
+  },
+  {
+    "stockname":"EREGL.IS",
+    "company":"Ereğli Demir Çelik"
+  },
+  {
+    "stockname":"ERSU.IS",
+    "company":"Ersu Gıda"
+  },
+  {
+    "stockname":"ESCAR.IS",
+    "company":"Escar Filo"
+  },
+  {
+    "stockname":"ESCOM.IS",
+    "company":"Escort Teknoloji"
+  },
+  {
+    "stockname":"ESEN.IS",
+    "company":"Esenboğa Elektrik"
+  },
+  {
+    "stockname":"ETILR.IS",
+    "company":"Etiler Gıda"
+  },
+  {
+    "stockname":"ETYAT.IS",
+    "company":"Euro Trend Yatırım"
+  },
+  {
+    "stockname":"EUHOL.IS",
+    "company":"Euro Yatırım"
+  },
+  {
+    "stockname":"EUKYO.IS",
+    "company":"Euro Kapital Yatırım Ortaklığı"
+  },
+  {
+    "stockname":"EUPWR.IS",
+    "company":"Europower Enerji"
+  },
+  {
+    "stockname":"EUREN.IS",
+    "company":"Europen Endüstri"
+  },
+  {
+    "stockname":"EUYO.IS",
+    "company":"Euro Menkul"
+  },
+  {
+    "stockname":"EYGYO.IS",
+    "company":"EYG Gayrimenkul"
+  },
+  {
+    "stockname":"FADE.IS",
+    "company":"Fade Gıda Yatırım"
+  },
+  {
+    "stockname":"FENER.IS",
+    "company":"Fenerbahce Futbol A.Ş."
+  },
+  {
+    "stockname":"FLAP.IS",
+    "company":"Flap Kongre Hiz.Oto.Tur.A.Ş"
+  },
+  {
+    "stockname":"FMIZP.IS",
+    "company":"F-M İzmit Piston"
+  },
+  {
+    "stockname":"FONET.IS",
+    "company":"Fonet Bilgi Teknolojileri"
+  },
+  {
+    "stockname":"FORMT.IS",
+    "company":"Formet Metal ve Cam Sanayii"
+  },
+  {
+    "stockname":"FORTE.IS",
+    "company":"Forte Bilgi İletişim"
+  },
+  {
+    "stockname":"FRIGO.IS",
+    "company":"Frigo Pak Gıda"
+  },
+  {
+    "stockname":"FROTO.IS",
+    "company":"Ford Otosan"
+  },
+  {
+    "stockname":"FZLGY.IS",
+    "company":"Fuzul Gayrimenkul"
+  },
+  {
+    "stockname":"GARAN.IS",
+    "company":"Garanti Bankası"
+  },
+  {
+    "stockname":"GARFA.IS",
+    "company":"Garanti BBVA Faktoring"
+  },
+  {
+    "stockname":"GEDIK.IS",
+    "company":"Gedik Yatırım"
+  },
+  {
+    "stockname":"GEDZA.IS",
+    "company":"Gediz Ambalaj Sanayi"
+  },
+  {
+    "stockname":"GENIL.IS",
+    "company":"Gen İlaç"
+  },
+  {
+    "stockname":"GENTS.IS",
+    "company":"Gentaş"
+  },
+  {
+    "stockname":"GEREL.IS",
+    "company":"Gersan Elektrik"
+  },
+  {
+    "stockname":"GESAN.IS",
+    "company":"Girişim Elektrik"
+  },
+  {
+    "stockname":"GIPTA.IS",
+    "company":"Gıpta"
+  },
+  {
+    "stockname":"GLBMD.IS",
+    "company":"Global Menkul Değerler"
+  },
+  {
+    "stockname":"GLCVY.IS",
+    "company":"Gelecek Varlık Yön."
+  },
+  {
+    "stockname":"GLRMK.IS",
+    "company":"Gülermak Ağır Sanayi"
+  },
+  {
+    "stockname":"GLRYH.IS",
+    "company":"Güler Yatırım Holding"
+  },
+  {
+    "stockname":"GLYHO.IS",
+    "company":"Global Yatırım Holding"
+  },
+  {
+    "stockname":"GMTAS.IS",
+    "company":"Gimat Mağazacılık"
+  },
+  {
+    "stockname":"GOKNR.IS",
+    "company":"Göknur Gıda"
+  },
+  {
+    "stockname":"GOLTS.IS",
+    "company":"Göltaş Çimento"
+  },
+  {
+    "stockname":"GOODY.IS",
+    "company":"Goodyear"
+  },
+  {
+    "stockname":"GOZDE.IS",
+    "company":"Gözde Girisim Sermayesi"
+  },
+  {
+    "stockname":"GRNYO.IS",
+    "company":"Garanti YO"
+  },
+  {
+    "stockname":"GRSEL.IS",
+    "company":"Gürsel Taşımacılık"
+  },
+  {
+    "stockname":"GRTHO.IS",
+    "company":"GrainTurk Tarım"
+  },
+  {
+    "stockname":"GSDDE.IS",
+    "company":"GSD Denizcilik Gayrimenkul İnş"
+  },
+  {
+    "stockname":"GSDHO.IS",
+    "company":"GSD Holding A.Ş."
+  },
+  {
+    "stockname":"GSRAY.IS",
+    "company":"Galatasaray Sportif A.Ş"
+  },
+  {
+    "stockname":"GUBRF.IS",
+    "company":"Gübre Fabrikaları"
+  },
+  {
+    "stockname":"GUNDG.IS",
+    "company":"Gündoğdu Gıda"
+  },
+  {
+    "stockname":"GWIND.IS",
+    "company":"Galata Wind Enerji"
+  },
+  {
+    "stockname":"GZNMI.IS",
+    "company":"Gezinomi Seyahat"
+  },
+  {
+    "stockname":"HALKB.IS",
+    "company":"Halkbank"
+  },
+  {
+    "stockname":"HATEK.IS",
+    "company":"Hateks Hatay Tekstil"
+  },
+  {
+    "stockname":"HATSN.IS",
+    "company":"Hat-San"
+  },
+  {
+    "stockname":"HDFGS.IS",
+    "company":"Hedef Girişim Sermayesi"
+  },
+  {
+    "stockname":"HEDEF.IS",
+    "company":"Hedef Holding"
+  },
+  {
+    "stockname":"HEKTS.IS",
+    "company":"Hektaş"
+  },
+  {
+    "stockname":"HKTM.IS",
+    "company":"Hidropar"
+  },
+  {
+    "stockname":"HLGYO.IS",
+    "company":"Halk GYO"
+  },
+  {
+    "stockname":"HOROZ.IS",
+    "company":"Horoz Lojistik"
+  },
+  {
+    "stockname":"HRKET.IS",
+    "company":"Hareket Proje"
+  },
+  {
+    "stockname":"HTTBT.IS",
+    "company":"Hitit Bilgisayar"
+  },
+  {
+    "stockname":"HUBVC.IS",
+    "company":"Hub Girişim Ser. Y.O."
+  },
+  {
+    "stockname":"HUNER.IS",
+    "company":"Hun Enerji"
+  },
+  {
+    "stockname":"HURGZ.IS",
+    "company":"Hürriyet"
+  },
+  {
+    "stockname":"ICBCT.IS",
+    "company":"ICBC Turkey Bank"
+  },
+  {
+    "stockname":"ICUGS.IS",
+    "company":"Icu Girişim Ser. Y.O."
+  },
+  {
+    "stockname":"IDGYO.IS",
+    "company":"İdealist GYO"
+  },
+  {
+    "stockname":"IEYHO.IS",
+    "company":"Işıklar Enerji ve Yapı Holding"
+  },
+  {
+    "stockname":"IHAAS.IS",
+    "company":"İhlas Haber Ajansı"
+  },
+  {
+    "stockname":"IHEVA.IS",
+    "company":"İhlas Ev Aletleri"
+  },
+  {
+    "stockname":"IHGZT.IS",
+    "company":"İhlas Gazetecilik"
+  },
+  {
+    "stockname":"IHLAS.IS",
+    "company":"İhlas Holding"
+  },
+  {
+    "stockname":"IHLGM.IS",
+    "company":"İhlas Gayrimenkul"
+  },
+  {
+    "stockname":"IHYAY.IS",
+    "company":"İhlas Yayın Holding"
+  },
+  {
+    "stockname":"IMASM.IS",
+    "company":"İmaş Makine"
+  },
+  {
+    "stockname":"INDES.IS",
+    "company":"İndeks Bilgisayar"
+  },
+  {
+    "stockname":"INFO.IS",
+    "company":"İnfo Yatırım"
+  },
+  {
+    "stockname":"INGRM.IS",
+    "company":"İngram Bilişim"
+  },
+  {
+    "stockname":"INTEK.IS",
+    "company":"Innosa Teknoloji"
+  },
+  {
+    "stockname":"INTEM.IS",
+    "company":"İntema"
+  },
+  {
+    "stockname":"INVEO.IS",
+    "company":"İnveo Yatırım Holding"
+  },
+  {
+    "stockname":"INVES.IS",
+    "company":"Investco Holding"
+  },
+  {
+    "stockname":"IPEKE.IS",
+    "company":"İpek Enerji"
+  },
+  {
+    "stockname":"ISATR.IS",
+    "company":"İş Bankası (A)"
+  },
+  {
+    "stockname":"ISBIR.IS",
+    "company":"İşbir Holding"
+  },
+  {
+    "stockname":"ISBTR.IS",
+    "company":"İş Bankası (B)"
+  },
+  {
+    "stockname":"ISCTR.IS",
+    "company":"İş Bankası (C)"
+  },
+  {
+    "stockname":"ISDMR.IS",
+    "company":"İskenderun Demir Çelik"
+  },
+  {
+    "stockname":"ISFIN.IS",
+    "company":"İş Finansal Kiralama"
+  },
+  {
+    "stockname":"ISGSY.IS",
+    "company":"İş Girişim"
+  },
+  {
+    "stockname":"ISGYO.IS",
+    "company":"İş GYO"
+  },
+  {
+    "stockname":"ISKPL.IS",
+    "company":"Işıklar Plastik"
+  },
+  {
+    "stockname":"ISKUR.IS",
+    "company":"İş Bankası Kurucu"
+  },
+  {
+    "stockname":"ISMEN.IS",
+    "company":"İş Yatırım"
+  },
+  {
+    "stockname":"ISSEN.IS",
+    "company":"İşbir Sentetik"
+  },
+  {
+    "stockname":"ISYAT.IS",
+    "company":"İs YO"
+  },
+  {
+    "stockname":"IZENR.IS",
+    "company":"İzdemir Enerji"
+  },
+  {
+    "stockname":"IZFAS.IS",
+    "company":"İzmir Fırça"
+  },
+  {
+    "stockname":"IZINV.IS",
+    "company":"İz Yatırım Holding"
+  },
+  {
+    "stockname":"IZMDC.IS",
+    "company":"İzmir Demir Çelik"
+  },
+  {
+    "stockname":"JANTS.IS",
+    "company":"Jantsa Jant"
+  },
+  {
+    "stockname":"KAPLM.IS",
+    "company":"Kaplamin"
+  },
+  {
+    "stockname":"KAREL.IS",
+    "company":"Karel Elektronik"
+  },
+  {
+    "stockname":"KARSN.IS",
+    "company":"Karsan Otomotiv"
+  },
+  {
+    "stockname":"KARTN.IS",
+    "company":"Kartonsan"
+  },
+  {
+    "stockname":"KATMR.IS",
+    "company":"Katmerciler Araç Üstü Ekipman"
+  },
+  {
+    "stockname":"KAYSE.IS",
+    "company":"Kayseri Şeker"
+  },
+  {
+    "stockname":"KBORU.IS",
+    "company":"Kuzey Boru"
+  },
+  {
+    "stockname":"KCAER.IS",
+    "company":"Kocaer Çelik Sanayi"
+  },
+  {
+    "stockname":"KCHOL.IS",
+    "company":"Koç Holding"
+  },
+  {
+    "stockname":"KENT.IS",
+    "company":"Kent Gıda"
+  },
+  {
+    "stockname":"KERVN.IS",
+    "company":"Kervansaray Yat. Holding"
+  },
+  {
+    "stockname":"KFEIN.IS",
+    "company":"Kafein Yazılım"
+  },
+  {
+    "stockname":"KGYO.IS",
+    "company":"Koray GYO"
+  },
+  {
+    "stockname":"KIMMR.IS",
+    "company":"Ersan Alışveriş Hizmetleri"
+  },
+  {
+    "stockname":"KLGYO.IS",
+    "company":"Kiler GYO"
+  },
+  {
+    "stockname":"KLKIM.IS",
+    "company":"Kalekim Kimyevi Maddeler"
+  },
+  {
+    "stockname":"KLMSN.IS",
+    "company":"Klimasan"
+  },
+  {
+    "stockname":"KLNMA.IS",
+    "company":"T. Kalkınma Bankası"
+  },
+  {
+    "stockname":"KLRHO.IS",
+    "company":"Kiler Holding"
+  },
+  {
+    "stockname":"KLSER.IS",
+    "company":"Kaleseramik"
+  },
+  {
+    "stockname":"KLSYN.IS",
+    "company":"Koleksiyon Mobilya"
+  },
+  {
+    "stockname":"KLYPV.IS",
+    "company":"Kalyon Güneş Teknolojileri"
+  },
+  {
+    "stockname":"KMPUR.IS",
+    "company":"Kimteks Poliüretan"
+  },
+  {
+    "stockname":"KNFRT.IS",
+    "company":"Konfrut Gıda"
+  },
+  {
+    "stockname":"KOCMT.IS",
+    "company":"Koç Metalurji"
+  },
+  {
+    "stockname":"KONKA.IS",
+    "company":"Konya Kağıt"
+  },
+  {
+    "stockname":"KONTR.IS",
+    "company":"Kontrolmatik Teknoloji"
+  },
+  {
+    "stockname":"KONYA.IS",
+    "company":"Konya Çimento"
+  },
+  {
+    "stockname":"KOPOL.IS",
+    "company":"Koza Polyester"
+  },
+  {
+    "stockname":"KORDS.IS",
+    "company":"Kordsa Teknik Tekstil"
+  },
+  {
+    "stockname":"KOTON.IS",
+    "company":"Koton"
+  },
+  {
+    "stockname":"KOZAA.IS",
+    "company":"Koza Anadolu Metal"
+  },
+  {
+    "stockname":"KOZAL.IS",
+    "company":"Koza Altın"
+  },
+  {
+    "stockname":"KRDMA.IS",
+    "company":"Kardemir (A)"
+  },
+  {
+    "stockname":"KRDMB.IS",
+    "company":"Kardemir (B)"
+  },
+  {
+    "stockname":"KRDMD.IS",
+    "company":"Kardemir (D)"
+  },
+  {
+    "stockname":"KRGYO.IS",
+    "company":"Korfez GYO"
+  },
+  {
+    "stockname":"KRONT.IS",
+    "company":"Kron Telekomünikasyon"
+  },
+  {
+    "stockname":"KRPLS.IS",
+    "company":"Koroplast Temizlik Ambalaj"
+  },
+  {
+    "stockname":"KRSTL.IS",
+    "company":"Kristal Kola"
+  },
+  {
+    "stockname":"KRTEK.IS",
+    "company":"Karsu Tekstil"
+  },
+  {
+    "stockname":"KRVGD.IS",
+    "company":"Kervan Gıda"
+  },
+  {
+    "stockname":"KSTUR.IS",
+    "company":"Kuştur Turizm"
+  },
+  {
+    "stockname":"KTLEV.IS",
+    "company":"Katılımevim"
+  },
+  {
+    "stockname":"KTSKR.IS",
+    "company":"Kütahya Şeker"
+  },
+  {
+    "stockname":"KUTPO.IS",
+    "company":"Kütahya Porselen"
+  },
+  {
+    "stockname":"KUVVA.IS",
+    "company":"Kuvva Gıda"
+  },
+  {
+    "stockname":"KUYAS.IS",
+    "company":"Kuyas Yatırım AŞ"
+  },
+  {
+    "stockname":"KZBGY.IS",
+    "company":"Kızılbük GYO"
+  },
+  {
+    "stockname":"KZGYO.IS",
+    "company":"Kuzugrup GYO"
+  },
+  {
+    "stockname":"LIDER.IS",
+    "company":"Lider Turizm"
+  },
+  {
+    "stockname":"LIDFA.IS",
+    "company":"Lider Faktoring"
+  },
+  {
+    "stockname":"LILAK.IS",
+    "company":"Lila Kağıt"
+  },
+  {
+    "stockname":"LINK.IS",
+    "company":"Link Bilgisayar"
+  },
+  {
+    "stockname":"LKMNH.IS",
+    "company":"Lokman Hekim Engurusag"
+  },
+  {
+    "stockname":"LMKDC.IS",
+    "company":"Limak Doğu Anadolu Çimento"
+  },
+  {
+    "stockname":"LOGO.IS",
+    "company":"Logo Yazılım"
+  },
+  {
+    "stockname":"LRSHO.IS",
+    "company":"Loras Holding"
+  },
+  {
+    "stockname":"LUKSK.IS",
+    "company":"Lüks Kadife"
+  },
+  {
+    "stockname":"LYDHO.IS",
+    "company":"Lydia Holding"
+  },
+  {
+    "stockname":"LYDYE.IS",
+    "company":"Tetamat Gıda"
+  },
+  {
+    "stockname":"MAALT.IS",
+    "company":"Marmaris Altınyunus"
+  },
+  {
+    "stockname":"MACKO.IS",
+    "company":"Maçkolik"
+  },
+  {
+    "stockname":"MAGEN.IS",
+    "company":"Margün Enerji"
+  },
+  {
+    "stockname":"MAKIM.IS",
+    "company":"Makim Makina"
+  },
+  {
+    "stockname":"MAKTK.IS",
+    "company":"Makina Takım"
+  },
+  {
+    "stockname":"MANAS.IS",
+    "company":"Manas Enerji Yönetimi"
+  },
+  {
+    "stockname":"MARBL.IS",
+    "company":"Tureks Turunç"
+  },
+  {
+    "stockname":"MARKA.IS",
+    "company":"Marka Yatırım Holding"
+  },
+  {
+    "stockname":"MARMR.IS",
+    "company":"Marmara Holding"
+  },
+  {
+    "stockname":"MARTI.IS",
+    "company":"Martı Otel İşletmeleri"
+  },
+  {
+    "stockname":"MAVI.IS",
+    "company":"Mavi Giyim Sanayi Tic.A.S"
+  },
+  {
+    "stockname":"MEDTR.IS",
+    "company":"Meditera Tıbbi Malzeme"
+  },
+  {
+    "stockname":"MEGAP.IS",
+    "company":"Mega Polietilen Köpük"
+  },
+  {
+    "stockname":"MEGMT.IS",
+    "company":"Mega Metal"
+  },
+  {
+    "stockname":"MEKAG.IS",
+    "company":"Meka Beton"
+  },
+  {
+    "stockname":"MEPET.IS",
+    "company":"Metro Petrol ve Tesisleri"
+  },
+  {
+    "stockname":"MERCN.IS",
+    "company":"Mercan Kimya"
+  },
+  {
+    "stockname":"MERIT.IS",
+    "company":"Merit Turizm Yatırım"
+  },
+  {
+    "stockname":"MERKO.IS",
+    "company":"Merko Gıda"
+  },
+  {
+    "stockname":"METRO.IS",
+    "company":"Metro Tic. Mali Yat."
+  },
+  {
+    "stockname":"MGROS.IS",
+    "company":"Migros"
+  },
+  {
+    "stockname":"MHRGY.IS",
+    "company":"Mhr GYO"
+  },
+  {
+    "stockname":"MIATK.IS",
+    "company":"Mia Teknoloji"
+  },
+  {
+    "stockname":"MMCAS.IS",
+    "company":"MMC San.ve Tic. Yatırımlar A.Ş"
+  },
+  {
+    "stockname":"MNDRS.IS",
+    "company":"Menderes Tekstil"
+  },
+  {
+    "stockname":"MNDTR.IS",
+    "company":"Mondi Tire"
+  },
+  {
+    "stockname":"MOBTL.IS",
+    "company":"Mobitel İletişim"
+  },
+  {
+    "stockname":"MOGAN.IS",
+    "company":"Mogan Enerji"
+  },
+  {
+    "stockname":"MOPAS.IS",
+    "company":"Mopaş"
+  },
+  {
+    "stockname":"MPARK.IS",
+    "company":"MLP Sağlık Hizmetleri"
+  },
+  {
+    "stockname":"MRGYO.IS",
+    "company":"Martı GYO"
+  },
+  {
+    "stockname":"MRSHL.IS",
+    "company":"Marshall"
+  },
+  {
+    "stockname":"MSGYO.IS",
+    "company":"Mistral GYO"
+  },
+  {
+    "stockname":"MTRKS.IS",
+    "company":"Matriks Bilgi Dağıtım"
+  },
+  {
+    "stockname":"MTRYO.IS",
+    "company":"Metro YO"
+  },
+  {
+    "stockname":"MZHLD.IS",
+    "company":"Mazhar Zorlu Holding"
+  },
+  {
+    "stockname":"NATEN.IS",
+    "company":"Naturel Yenilenebilir Enerji"
+  },
+  {
+    "stockname":"NETAS.IS",
+    "company":"Netaş"
+  },
+  {
+    "stockname":"NIBAS.IS",
+    "company":"Niğde Beton Sanayi"
+  },
+  {
+    "stockname":"NTGAZ.IS",
+    "company":"Naturel Gaz"
+  },
+  {
+    "stockname":"NTHOL.IS",
+    "company":"Net Holding"
+  },
+  {
+    "stockname":"NUGYO.IS",
+    "company":"Nurol GYO"
+  },
+  {
+    "stockname":"NUHCM.IS",
+    "company":"Nuh Çimento"
+  },
+  {
+    "stockname":"OBAMS.IS",
+    "company":"Oba Makarnacılık"
+  },
+  {
+    "stockname":"OBASE.IS",
+    "company":"Obase Bilgisayar Danışmanlık"
+  },
+  {
+    "stockname":"ODAS.IS",
+    "company":"Odaş Elektrik Üretim"
+  },
+  {
+    "stockname":"ODINE.IS",
+    "company":"Odine Solutions"
+  },
+  {
+    "stockname":"OFSYM.IS",
+    "company":"Ofis Yem"
+  },
+  {
+    "stockname":"ONCSM.IS",
+    "company":"Oncosem"
+  },
+  {
+    "stockname":"ONRYT.IS",
+    "company":"Onur Yüksek Teknoloji"
+  },
+  {
+    "stockname":"ORCAY.IS",
+    "company":"Ortaköy Çay Sanayi"
+  },
+  {
+    "stockname":"ORGE.IS",
+    "company":"ORGE Enerji Elektrik"
+  },
+  {
+    "stockname":"ORMA.IS",
+    "company":"Orma Orman Mahsulleri"
+  },
+  {
+    "stockname":"OSMEN.IS",
+    "company":"Osmanlı Menkul Değ."
+  },
+  {
+    "stockname":"OSTIM.IS",
+    "company":"Ostim Endüst. Yatırımlar"
+  },
+  {
+    "stockname":"OTKAR.IS",
+    "company":"Otokar"
+  },
+  {
+    "stockname":"OTTO.IS",
+    "company":"Otto Holding"
+  },
+  {
+    "stockname":"OYAKC.IS",
+    "company":"Oyak Çimento"
+  },
+  {
+    "stockname":"OYAYO.IS",
+    "company":"Oyak Yatırım Ortaklığı"
+  },
+  {
+    "stockname":"OYLUM.IS",
+    "company":"Oylum Sınai Yatırımlar"
+  },
+  {
+    "stockname":"OYYAT.IS",
+    "company":"Oyak Yatırım"
+  },
+  {
+    "stockname":"OZATD.IS",
+    "company":"Özata Denizcilik"
+  },
+  {
+    "stockname":"OZGYO.IS",
+    "company":"Özderici GYO"
+  },
+  {
+    "stockname":"OZKGY.IS",
+    "company":"Özak GYO"
+  },
+  {
+    "stockname":"OZRDN.IS",
+    "company":"Özerden Plastik"
+  },
+  {
+    "stockname":"OZSUB.IS",
+    "company":"Özsu Balık"
+  },
+  {
+    "stockname":"OZYSR.IS",
+    "company":"Özyaşar Tel"
+  },
+  {
+    "stockname":"PAGYO.IS",
+    "company":"Panora GYO"
+  },
+  {
+    "stockname":"PAMEL.IS",
+    "company":"Pamel Yenilenebilir Elekt."
+  },
+  {
+    "stockname":"PAPIL.IS",
+    "company":"Papilon Savunma"
+  },
+  {
+    "stockname":"PARSN.IS",
+    "company":"Parsan"
+  },
+  {
+    "stockname":"PASEU.IS",
+    "company":"Pasifik Eurasia"
+  },
+  {
+    "stockname":"PATEK.IS",
+    "company":"Pasifik Teknoloji"
+  },
+  {
+    "stockname":"PCILT.IS",
+    "company":"PC İletişim ve Medya"
+  },
+  {
+    "stockname":"PEKGY.IS",
+    "company":"Peker GYO"
+  },
+  {
+    "stockname":"PENGD.IS",
+    "company":"Penguen Gıda"
+  },
+  {
+    "stockname":"PENTA.IS",
+    "company":"Penta Teknoloji"
+  },
+  {
+    "stockname":"PETKM.IS",
+    "company":"Petkim"
+  },
+  {
+    "stockname":"PETUN.IS",
+    "company":"Pınar Et ve Un"
+  },
+  {
+    "stockname":"PGSUS.IS",
+    "company":"Pegasus Hava Taşımacılığı"
+  },
+  {
+    "stockname":"PINSU.IS",
+    "company":"Pınar Su"
+  },
+  {
+    "stockname":"PKART.IS",
+    "company":"Plastikkart A.Ş"
+  },
+  {
+    "stockname":"PKENT.IS",
+    "company":"Petrokent"
+  },
+  {
+    "stockname":"PLTUR.IS",
+    "company":"Platform Turizm"
+  },
+  {
+    "stockname":"PNLSN.IS",
+    "company":"Panelsan Çatı Cephe"
+  },
+  {
+    "stockname":"PNSUT.IS",
+    "company":"Pınar Süt"
+  },
+  {
+    "stockname":"POLHO.IS",
+    "company":"Polisan Holding"
+  },
+  {
+    "stockname":"POLTK.IS",
+    "company":"Politeknik Metal"
+  },
+  {
+    "stockname":"PRDGS.IS",
+    "company":"Pardus Girişim"
+  },
+  {
+    "stockname":"PRKAB.IS",
+    "company":"Prysmian Kablo"
+  },
+  {
+    "stockname":"PRKME.IS",
+    "company":"Park Elek. Madencilik"
+  },
+  {
+    "stockname":"PRZMA.IS",
+    "company":"Prizma Pres Matbaacılık"
+  },
+  {
+    "stockname":"PSDTC.IS",
+    "company":"Pergamon Status"
+  },
+  {
+    "stockname":"PSGYO.IS",
+    "company":"Pasifik GYO"
+  },
+  {
+    "stockname":"QNBFK.IS",
+    "company":"QNB Finans Fin. Kir."
+  },
+  {
+    "stockname":"QNBTR.IS",
+    "company":"QNB Bank"
+  },
+  {
+    "stockname":"QUAGR.IS",
+    "company":"QUA Granite"
+  },
+  {
+    "stockname":"RALYH.IS",
+    "company":"Ral Yatırım Holding"
+  },
+  {
+    "stockname":"RAYSG.IS",
+    "company":"Ray Sigorta"
+  },
+  {
+    "stockname":"REEDR.IS",
+    "company":"Reeder"
+  },
+  {
+    "stockname":"RGYAS.IS",
+    "company":"Rönesans Gayrimenkul"
+  },
+  {
+    "stockname":"RNPOL.IS",
+    "company":"Rainbow Polikarbonat"
+  },
+  {
+    "stockname":"RODRG.IS",
+    "company":"Rodrigo Tekstil"
+  },
+  {
+    "stockname":"ROYAL.IS",
+    "company":"Royal Halı"
+  },
+  {
+    "stockname":"RTALB.IS",
+    "company":"RTA laboratuvarlari"
+  },
+  {
+    "stockname":"RUBNS.IS",
+    "company":"Rubenis Tekstil"
+  },
+  {
+    "stockname":"RUZYE.IS",
+    "company":"Ruzy Madencilik ve Enerji"
+  },
+  {
+    "stockname":"RYGYO.IS",
+    "company":"Reysaş GYO"
+  },
+  {
+    "stockname":"RYSAS.IS",
+    "company":"Reysaş Taşımacılık"
+  },
+  {
+    "stockname":"SAFKR.IS",
+    "company":"Safkar Ege Soğutmacılık"
+  },
+  {
+    "stockname":"SAHOL.IS",
+    "company":"Sabancı Holding"
+  },
+  {
+    "stockname":"SAMAT.IS",
+    "company":"Saray Matbaacılık"
+  },
+  {
+    "stockname":"SANEL.IS",
+    "company":"San-El Muhendislik"
+  },
+  {
+    "stockname":"SANFM.IS",
+    "company":"Sanifoam Sünger Sanayi"
+  },
+  {
+    "stockname":"SANKO.IS",
+    "company":"Sanko Pazarlama"
+  },
+  {
+    "stockname":"SARKY.IS",
+    "company":"Sarkuysan"
+  },
+  {
+    "stockname":"SASA.IS",
+    "company":"Sasa Polyester Sanayi A.Ş."
+  },
+  {
+    "stockname":"SAYAS.IS",
+    "company":"Say Yenilenebilir Enerji"
+  },
+  {
+    "stockname":"SDTTR.IS",
+    "company":"SDT Uzay"
+  },
+  {
+    "stockname":"SEGMN.IS",
+    "company":"Seğmen Gıda"
+  },
+  {
+    "stockname":"SEGYO.IS",
+    "company":"Şeker GYO"
+  },
+  {
+    "stockname":"SEKFK.IS",
+    "company":"Şeker Finansal Kiralama A.Ş"
+  },
+  {
+    "stockname":"SEKUR.IS",
+    "company":"Sekuro Plastik"
+  },
+  {
+    "stockname":"SELEC.IS",
+    "company":"Selçuk Ecza Deposu"
+  },
+  {
+    "stockname":"SELVA.IS",
+    "company":"Selva Gıda"
+  },
+  {
+    "stockname":"SERNT.IS",
+    "company":"Seranit Granit"
+  },
+  {
+    "stockname":"SEYKM.IS",
+    "company":"Seyitler Kimya"
+  },
+  {
+    "stockname":"SILVR.IS",
+    "company":"Silverline"
+  },
+  {
+    "stockname":"SISE.IS",
+    "company":"Şişecam"
+  },
+  {
+    "stockname":"SKBNK.IS",
+    "company":"Şekerbank"
+  },
+  {
+    "stockname":"SKTAS.IS",
+    "company":"Söktaş"
+  },
+  {
+    "stockname":"SKYLP.IS",
+    "company":"Skyalp Fin. Tek.ve Danışmanlık"
+  },
+  {
+    "stockname":"SKYMD.IS",
+    "company":"Şeker Yatırım"
+  },
+  {
+    "stockname":"SMART.IS",
+    "company":"Smartiks Yazılım"
+  },
+  {
+    "stockname":"SMRTG.IS",
+    "company":"Smart Güneş Enerjisi"
+  },
+  {
+    "stockname":"SMRVA.IS",
+    "company":"Sümer Varlık Yönetim"
+  },
+  {
+    "stockname":"SNGYO.IS",
+    "company":"Sinpas GYO"
+  },
+  {
+    "stockname":"SNICA.IS",
+    "company":"Sanica Isı Sanayi"
+  },
+  {
+    "stockname":"SNKRN.IS",
+    "company":"Senkron Güvenlik"
+  },
+  {
+    "stockname":"SNPAM.IS",
+    "company":"Sönmez Pamuklu"
+  },
+  {
+    "stockname":"SODSN.IS",
+    "company":"Sodaş Sodyum Sanayii"
+  },
+  {
+    "stockname":"SOKE.IS",
+    "company":"Söke Değirmencilik"
+  },
+  {
+    "stockname":"SOKM.IS",
+    "company":"Şok Marketler"
+  },
+  {
+    "stockname":"SONME.IS",
+    "company":"Sönmez Filament"
+  },
+  {
+    "stockname":"SRVGY.IS",
+    "company":"Servet GYO"
+  },
+  {
+    "stockname":"SUMAS.IS",
+    "company":"Sumas Mobilya"
+  },
+  {
+    "stockname":"SUNTK.IS",
+    "company":"Sun Tekstil"
+  },
+  {
+    "stockname":"SURGY.IS",
+    "company":"Sur GYO"
+  },
+  {
+    "stockname":"SUWEN.IS",
+    "company":"Suwen Tekstil"
+  },
+  {
+    "stockname":"TABGD.IS",
+    "company":"Tab Gıda"
+  },
+  {
+    "stockname":"TARKM.IS",
+    "company":"Tarkim"
+  },
+  {
+    "stockname":"TATEN.IS",
+    "company":"Tatlıpınar Enerji"
+  },
+  {
+    "stockname":"TATGD.IS",
+    "company":"Tat Gıda"
+  },
+  {
+    "stockname":"TAVHL.IS",
+    "company":"TAV Holding"
+  },
+  {
+    "stockname":"TBORG.IS",
+    "company":"Tuborg"
+  },
+  {
+    "stockname":"TCELL.IS",
+    "company":"Turkcell"
+  },
+  {
+    "stockname":"TCKRC.IS",
+    "company":"Kıraç Galvaniz"
+  },
+  {
+    "stockname":"TDGYO.IS",
+    "company":"Trend GYO"
+  },
+  {
+    "stockname":"TEHOL.IS",
+    "company":"Tera Holding"
+  },
+  {
+    "stockname":"TEKTU.IS",
+    "company":"Tek-Art Turizm"
+  },
+  {
+    "stockname":"TERA.IS",
+    "company":"Tera Yatırım"
+  },
+  {
+    "stockname":"TEZOL.IS",
+    "company":"Europap Tezol"
+  },
+  {
+    "stockname":"TGSAS.IS",
+    "company":"TGS Dış Ticaret"
+  },
+  {
+    "stockname":"THYAO.IS",
+    "company":"Türk Hava Yolları"
+  },
+  {
+    "stockname":"TKFEN.IS",
+    "company":"Tekfen Holding"
+  },
+  {
+    "stockname":"TKNSA.IS",
+    "company":"Teknosa İç ve Dış Tic."
+  },
+  {
+    "stockname":"TLMAN.IS",
+    "company":"Trabzon Liman İşletmeciliği"
+  },
+  {
+    "stockname":"TMPOL.IS",
+    "company":"TE-MAPOL Polimer Plastik"
+  },
+  {
+    "stockname":"TMSN.IS",
+    "company":"Tümosan Motor ve Traktör"
+  },
+  {
+    "stockname":"TNZTP.IS",
+    "company":"Tapdi Oksijen"
+  },
+  {
+    "stockname":"TOASO.IS",
+    "company":"Tofaş Fabrika"
+  },
+  {
+    "stockname":"TRCAS.IS",
+    "company":"Turcas Holding"
+  },
+  {
+    "stockname":"TRGYO.IS",
+    "company":"Torunlar GYO"
+  },
+  {
+    "stockname":"TRHOL.IS",
+    "company":"Tera Finansal Yat. Holding"
+  },
+  {
+    "stockname":"TRILC.IS",
+    "company":"Turk İlaç ve Serum Sanayi"
+  },
+  {
+    "stockname":"TSGYO.IS",
+    "company":"TSKB GYO"
+  },
+  {
+    "stockname":"TSKB.IS",
+    "company":"TSKB"
+  },
+  {
+    "stockname":"TSPOR.IS",
+    "company":"Trabzonspor A.Ş"
+  },
+  {
+    "stockname":"TTKOM.IS",
+    "company":"Türk Telekom"
+  },
+  {
+    "stockname":"TTRAK.IS",
+    "company":"Türk Traktör"
+  },
+  {
+    "stockname":"TUCLK.IS",
+    "company":"Tuğçelik Alüminyum ve Metal"
+  },
+  {
+    "stockname":"TUKAS.IS",
+    "company":"Tukaş"
+  },
+  {
+    "stockname":"TUPRS.IS",
+    "company":"Tüpraş"
+  },
+  {
+    "stockname":"TUREX.IS",
+    "company":"Tureks Tur.Taşımacılık"
+  },
+  {
+    "stockname":"TURGG.IS",
+    "company":"Türker Proje Gay.Gel."
+  },
+  {
+    "stockname":"TURSG.IS",
+    "company":"Türkiye Sigorta"
+  },
+  {
+    "stockname":"UFUK.IS",
+    "company":"Ufuk Yat.Yön.ve Gay. AŞ."
+  },
+  {
+    "stockname":"ULAS.IS",
+    "company":"Ulaşlar Turizm Yatırımları"
+  },
+  {
+    "stockname":"ULKER.IS",
+    "company":"Ülker Bisküvi"
+  },
+  {
+    "stockname":"ULUFA.IS",
+    "company":"Ulusal Faktoring"
+  },
+  {
+    "stockname":"ULUSE.IS",
+    "company":"Ulusoy Elektrik"
+  },
+  {
+    "stockname":"ULUUN.IS",
+    "company":"Ulusoy Un"
+  },
+  {
+    "stockname":"UMPAS.IS",
+    "company":"Umpaş Holding"
+  },
+  {
+    "stockname":"UNLU.IS",
+    "company":"Ünlü Yatırım Holding"
+  },
+  {
+    "stockname":"USAK.IS",
+    "company":"Uşak Seramik"
+  },
+  {
+    "stockname":"VAKBN.IS",
+    "company":"Vakıfbank"
+  },
+  {
+    "stockname":"VAKFN.IS",
+    "company":"Vakıf Fin. Kir."
+  },
+  {
+    "stockname":"VAKKO.IS",
+    "company":"Vakko Tekstil"
+  },
+  {
+    "stockname":"VANGD.IS",
+    "company":"Vanet Gıda Sanayi"
+  },
+  {
+    "stockname":"VBTYZ.IS",
+    "company":"VBT Yazılım"
+  },
+  {
+    "stockname":"VERTU.IS",
+    "company":"Verusatürk Girişim Sermayesi"
+  },
+  {
+    "stockname":"VERUS.IS",
+    "company":"Verusa Holding"
+  },
+  {
+    "stockname":"VESBE.IS",
+    "company":"Vestel Beyaz Esya"
+  },
+  {
+    "stockname":"VESTL.IS",
+    "company":"Vestel Elektronik"
+  },
+  {
+    "stockname":"VKFYO.IS",
+    "company":"Vakıf YO"
+  },
+  {
+    "stockname":"VKGYO.IS",
+    "company":"Vakıf GYO"
+  },
+  {
+    "stockname":"VKING.IS",
+    "company":"Viking Kağıt"
+  },
+  {
+    "stockname":"VRGYO.IS",
+    "company":"Vera GYO"
+  },
+  {
+    "stockname":"VSNMD.IS",
+    "company":"Vişne Madencilik"
+  },
+  {
+    "stockname":"YAPRK.IS",
+    "company":"Yaprak Süt & Besi Çiftlikleri"
+  },
+  {
+    "stockname":"YATAS.IS",
+    "company":"Yataş Yatak"
+  },
+  {
+    "stockname":"YAYLA.IS",
+    "company":"Yayla Enerji Uretim Turizm"
+  },
+  {
+    "stockname":"YBTAS.IS",
+    "company":"Yibitaş İnş. Malzemeleri"
+  },
+  {
+    "stockname":"YEOTK.IS",
+    "company":"YEO Teknoloji"
+  },
+  {
+    "stockname":"YESIL.IS",
+    "company":"Yeşil Yatırım Holding"
+  },
+  {
+    "stockname":"YGGYO.IS",
+    "company":"Yeni Gimat GYO"
+  },
+  {
+    "stockname":"YGYO.IS",
+    "company":"Yeşil GYO"
+  },
+  {
+    "stockname":"YIGIT.IS",
+    "company":"Yiğit Akü"
+  },
+  {
+    "stockname":"YKBNK.IS",
+    "company":"Yapı Kredi Bankası"
+  },
+  {
+    "stockname":"YKSLN.IS",
+    "company":"Yükselen Çelik"
+  },
+  {
+    "stockname":"YONGA.IS",
+    "company":"Yonga Mobilya Sanayi"
+  },
+  {
+    "stockname":"YUNSA.IS",
+    "company":"Yünsa"
+  },
+  {
+    "stockname":"YYAPI.IS",
+    "company":"Yesil Yapi"
+  },
+  {
+    "stockname":"YYLGD.IS",
+    "company":"Yayla Agro Gıda"
+  },
+  {
+    "stockname":"ZEDUR.IS",
+    "company":"Zedur Enerji"
+  },
+  {
+    "stockname":"ZOREN.IS",
+    "company":"Zorlu Enerji"
+  },
+  {
+    "stockname":"ZRGYO.IS",
+    "company":"Ziraat GYO"
+  },
+  {
+    "stockname":"NVDA",
+    "company":"NVIDIA Corporation"
+  },
+  {
+    "stockname":"INTC",
+    "company":"Intel Corporation"
+  },
+  {
+    "stockname":"F",
+    "company":"Ford Motor Company"
+  },
+  {
+    "stockname":"TSLA",
+    "company":"Tesla, Inc."
+  },
+  {
+    "stockname":"PLTR",
+    "company":"Palantir Technologies Inc."
+  },
+  {
+    "stockname":"AMZN",
+    "company":"Amazon.com, Inc."
+  },
+  {
+    "stockname":"AAPL",
+    "company":"Apple Inc."
+  },
+  {
+    "stockname":"AAL",
+    "company":"American Airlines Group Inc."
+  },
+  {
+    "stockname":"LCID",
+    "company":"Lucid Group, Inc."
+  },
+  {
+    "stockname":"BAC",
+    "company":"Bank of America Corporation"
+  },
+  {
+    "stockname":"NU",
+    "company":"Nu Holdings Ltd."
+  },
+  {
+    "stockname":"SOFI",
+    "company":"SoFi Technologies, Inc."
+  },
+  {
+    "stockname":"GRAB",
+    "company":"Grab Holdings Limited"
+  },
+  {
+    "stockname":"HOOD",
+    "company":"Robinhood Markets, Inc."
+  },
+  {
+    "stockname":"NIO",
+    "company":"NIO Inc."
+  },
+  {
+    "stockname":"AVGO",
+    "company":"Broadcom Inc."
+  },
+  {
+    "stockname":"PFE",
+    "company":"Pfizer Inc."
+  },
+  {
+    "stockname":"PSLV",
+    "company":"Sprott Physical Silver Trust"
+  },
+  {
+    "stockname":"VALE",
+    "company":"Vale S.A."
+  },
+  {
+    "stockname":"AMD",
+    "company":"Advanced Micro Devices, Inc."
+  },
+  {
+    "stockname":"NKE",
+    "company":"NIKE, Inc."
+  },
+  {
+    "stockname":"BBD",
+    "company":"Banco Bradesco S.A."
+  },
+  {
+    "stockname":"WBD",
+    "company":"Warner Bros. Discovery, Inc."
+  },
+  {
+    "stockname":"BABA",
+    "company":"Alibaba Group Holding Limited"
+  },
+  {
+    "stockname":"T",
+    "company":"AT&T Inc."
+  },
+  {
+    "stockname":"GOOGL",
+    "company":"Alphabet Inc."
+  },
+  {
+    "stockname":"SMCI",
+    "company":"Super Micro Computer, Inc."
+  },
+  {
+    "stockname":"PBR",
+    "company":"PetrÃ³leo Brasileiro S.A. - Petrobras"
+  },
+  {
+    "stockname":"ET",
+    "company":"Energy Transfer LP"
+  },
+  {
+    "stockname":"AGNC",
+    "company":"AGNC Investment Corp."
+  },
+  {
+    "stockname":"ABEV",
+    "company":"Ambev S.A."
+  },
+  {
+    "stockname":"AMCR",
+    "company":"Amcor plc"
+  },
+  {
+    "stockname":"CX",
+    "company":"CEMEX, S.A.B. de C.V."
+  },
+  {
+    "stockname":"BTG",
+    "company":"B2Gold Corp."
+  },
+  {
+    "stockname":"SNAP",
+    "company":"Snap Inc."
+  },
+  {
+    "stockname":"MSFT",
+    "company":"Microsoft Corporation"
+  },
+  {
+    "stockname":"MU",
+    "company":"Micron Technology, Inc."
+  },
+  {
+    "stockname":"DNB",
+    "company":"Dun & Bradstreet Holdings, Inc."
+  },
+  {
+    "stockname":"C",
+    "company":"Citigroup Inc."
+  },
+  {
+    "stockname":"SLB",
+    "company":"Schlumberger Limited"
+  },
+  {
+    "stockname":"MARA",
+    "company":"MARA Holdings, Inc."
+  },
+  {
+    "stockname":"FCX",
+    "company":"Freeport-McMoRan Inc."
+  },
+  {
+    "stockname":"OXY",
+    "company":"Occidental Petroleum Corporation"
+  },
+  {
+    "stockname":"CLF",
+    "company":"Cleveland-Cliffs Inc."
+  },
+  {
+    "stockname":"CCL",
+    "company":"Carnival Corporation & plc"
+  },
+  {
+    "stockname":"META",
+    "company":"Meta Platforms, Inc."
+  },
+  {
+    "stockname":"CMCSA",
+    "company":"Comcast Corporation"
+  },
+  {
+    "stockname":"VZ",
+    "company":"Verizon Communications Inc."
+  },
+  {
+    "stockname":"GOOG",
+    "company":"Alphabet Inc."
+  },
+  {
+    "stockname":"LYG",
+    "company":"Lloyds Banking Group plc"
+  },
+  {
+    "stockname":"KGC",
+    "company":"Kinross Gold Corporation"
+  },
+  {
+    "stockname":"RKT",
+    "company":"Rocket Companies, Inc."
+  },
+  {
+    "stockname":"GOLD",
+    "company":"Barrick Gold Corporation"
+  },
+  {
+    "stockname":"RGTI",
+    "company":"Rigetti Computing, Inc."
+  },
+  {
+    "stockname":"CSCO",
+    "company":"Cisco Systems, Inc."
+  },
+  {
+    "stockname":"RIVN",
+    "company":"Rivian Automotive, Inc."
+  },
+  {
+    "stockname":"TSM",
+    "company":"Taiwan Semiconductor Manufacturing Company Limited"
+  },
+  {
+    "stockname":"VFC",
+    "company":"V.F. Corporation"
+  },
+  {
+    "stockname":"MRVL",
+    "company":"Marvell Technology, Inc."
+  },
+  {
+    "stockname":"ACHR",
+    "company":"Archer Aviation Inc."
+  },
+  {
+    "stockname":"UBER",
+    "company":"Uber Technologies, Inc."
+  },
+  {
+    "stockname":"WMT",
+    "company":"Walmart Inc."
+  },
+  {
+    "stockname":"STLA",
+    "company":"Stellantis N.V."
+  },
+  {
+    "stockname":"SOUN",
+    "company":"SoundHound AI, Inc."
+  },
+  {
+    "stockname":"UAA",
+    "company":"Under Armour, Inc."
+  },
+  {
+    "stockname":"SHOP",
+    "company":"Shopify Inc. Class A Subordinate Voting Shares"
+  },
+  {
+    "stockname":"HPE",
+    "company":"Hewlett Packard Enterprise Company"
+  },
+  {
+    "stockname":"VRN",
+    "company":"Veren Inc."
+  },
+  {
+    "stockname":"ERIC",
+    "company":"Telefonaktiebolaget LM Ericsson (publ)"
+  },
+  {
+    "stockname":"VRT",
+    "company":"Vertiv Holdings Co"
+  },
+  {
+    "stockname":"JPM",
+    "company":"JPMorgan Chase & Co."
+  },
+  {
+    "stockname":"WFC",
+    "company":"Wells Fargo & Company"
+  },
+  {
+    "stockname":"HIMS",
+    "company":"Hims & Hers Health, Inc."
+  },
+  {
+    "stockname":"HBAN",
+    "company":"Huntington Bancshares Incorporated"
+  },
+  {
+    "stockname":"NOK",
+    "company":"Nokia Oyj"
+  },
+  {
+    "stockname":"XOM",
+    "company":"Exxon Mobil Corporation"
+  },
+  {
+    "stockname":"WBA",
+    "company":"Walgreens Boots Alliance, Inc."
+  },
+  {
+    "stockname":"PCG",
+    "company":"PG&E Corporation"
+  },
+  {
+    "stockname":"IONQ",
+    "company":"IonQ, Inc."
+  },
+  {
+    "stockname":"KMI",
+    "company":"Kinder Morgan, Inc."
+  },
+  {
+    "stockname":"ITUB",
+    "company":"ItaÃº Unibanco Holding S.A."
+  },
+  {
+    "stockname":"JD",
+    "company":"JD.com, Inc."
+  },
+  {
+    "stockname":"NGD",
+    "company":"New Gold Inc."
+  },
+  {
+    "stockname":"CORZ",
+    "company":"Core Scientific, Inc."
+  },
+  {
+    "stockname":"PDD",
+    "company":"PDD Holdings Inc."
+  },
+  {
+    "stockname":"AVTR",
+    "company":"Avantor, Inc."
+  },
+  {
+    "stockname":"HL",
+    "company":"Hecla Mining Company"
+  },
+  {
+    "stockname":"ADT",
+    "company":"ADT Inc."
+  },
+  {
+    "stockname":"CLSK",
+    "company":"CleanSpark, Inc."
+  },
+  {
+    "stockname":"KEY",
+    "company":"KeyCorp"
+  },
+  {
+    "stockname":"GM",
+    "company":"General Motors Company"
+  },
+  {
+    "stockname":"MSTR",
+    "company":"Strategy Incorporated"
+  },
+  {
+    "stockname":"WDC",
+    "company":"Western Digital Corporation"
+  },
+  {
+    "stockname":"PINS",
+    "company":"Pinterest, Inc."
+  },
+  {
+    "stockname":"RKLB",
+    "company":"Rocket Lab USA, Inc."
+  },
+  {
+    "stockname":"BSX",
+    "company":"Boston Scientific Corporation"
+  },
+  {
+    "stockname":"BP",
+    "company":"BP p.l.c."
+  },
+  {
+    "stockname":"PYPL",
+    "company":"PayPal Holdings, Inc."
+  },
+  {
+    "stockname":"LUV",
+    "company":"Southwest Airlines Co."
+  },
+  {
+    "stockname":"MCHP",
+    "company":"Microchip Technology Incorporated"
+  },
+  {
+    "stockname":"EQT",
+    "company":"EQT Corporation"
+  },
+  {
+    "stockname":"CSX",
+    "company":"CSX Corporation"
+  },
+  {
+    "stockname":"MUFG",
+    "company":"Mitsubishi UFJ Financial Group, Inc."
+  },
+  {
+    "stockname":"KO",
+    "company":"The Coca-Cola Company"
+  },
+  {
+    "stockname":"MPW",
+    "company":"Medical Properties Trust, Inc."
+  },
+  {
+    "stockname":"LRCX",
+    "company":"Lam Research Corporation"
+  },
+  {
+    "stockname":"BA",
+    "company":"The Boeing Company"
+  },
+  {
+    "stockname":"PATH",
+    "company":"UiPath Inc."
+  },
+  {
+    "stockname":"BKR",
+    "company":"Baker Hughes Company"
+  },
+  {
+    "stockname":"BCS",
+    "company":"Barclays PLC"
+  },
+  {
+    "stockname":"DVN",
+    "company":"Devon Energy Corporation"
+  },
+  {
+    "stockname":"GAP",
+    "company":"The Gap, Inc."
+  },
+  {
+    "stockname":"ONON",
+    "company":"On Holding AG"
+  },
+  {
+    "stockname":"AQN",
+    "company":"Algonquin Power & Utilities Corp."
+  },
+  {
+    "stockname":"HPQ",
+    "company":"HP Inc."
+  },
+  {
+    "stockname":"OWL",
+    "company":"Blue Owl Capital Inc."
+  },
+  {
+    "stockname":"DIS",
+    "company":"The Walt Disney Company"
+  },
+  {
+    "stockname":"ANET",
+    "company":"Arista Networks Inc"
+  },
+  {
+    "stockname":"APA",
+    "company":"APA Corporation"
+  },
+  {
+    "stockname":"RIOT",
+    "company":"Riot Platforms, Inc."
+  },
+  {
+    "stockname":"USB",
+    "company":"U.S. Bancorp"
+  },
+  {
+    "stockname":"DAL",
+    "company":"Delta Air Lines, Inc."
+  },
+  {
+    "stockname":"GME",
+    "company":"GameStop Corp."
+  },
+  {
+    "stockname":"SBSW",
+    "company":"Sibanye Stillwater Limited"
+  },
+  {
+    "stockname":"EQX",
+    "company":"Equinox Gold Corp."
+  },
+  {
+    "stockname":"SBUX",
+    "company":"Starbucks Corporation"
+  },
+  {
+    "stockname":"CNH",
+    "company":"CNH Industrial N.V."
+  },
+  {
+    "stockname":"PR",
+    "company":"Permian Resources Corporation"
+  },
+  {
+    "stockname":"SCHW",
+    "company":"The Charles Schwab Corporation"
+  },
+  {
+    "stockname":"NEM",
+    "company":"Newmont Corporation"
+  },
+  {
+    "stockname":"TFC",
+    "company":"Truist Financial Corporation"
+  },
+  {
+    "stockname":"LYFT",
+    "company":"Lyft, Inc."
+  },
+  {
+    "stockname":"CTRA",
+    "company":"Coterra Energy Inc."
+  },
+  {
+    "stockname":"AUR",
+    "company":"Aurora Innovation, Inc."
+  },
+  {
+    "stockname":"KKR",
+    "company":"KKR & Co. Inc."
+  },
+  {
+    "stockname":"WMB",
+    "company":"The Williams Companies, Inc."
+  },
+  {
+    "stockname":"QCOM",
+    "company":"QUALCOMM Incorporated"
+  },
+  {
+    "stockname":"UMC",
+    "company":"United Microelectronics Corporation"
+  },
+  {
+    "stockname":"HAL",
+    "company":"Halliburton Company"
+  },
+  {
+    "stockname":"ASX",
+    "company":"ASE Technology Holding Co., Ltd."
+  },
+  {
+    "stockname":"W",
+    "company":"Wayfair Inc."
+  },
+  {
+    "stockname":"INFY",
+    "company":"Infosys Limited"
+  },
+  {
+    "stockname":"PTEN",
+    "company":"Patterson-UTI Energy, Inc."
+  },
+  {
+    "stockname":"VLY",
+    "company":"Valley National Bancorp"
+  },
+  {
+    "stockname":"VOD",
+    "company":"Vodafone Group Public Limited Company"
+  },
+  {
+    "stockname":"NEE",
+    "company":"NextEra Energy, Inc."
+  },
+  {
+    "stockname":"NCLH",
+    "company":"Norwegian Cruise Line Holdings Ltd."
+  },
+  {
+    "stockname":"AFRM",
+    "company":"Affirm Holdings, Inc."
+  },
+  {
+    "stockname":"TEVA",
+    "company":"Teva Pharmaceutical Industries Limited"
+  },
+  {
+    "stockname":"AEG",
+    "company":"Aegon Ltd."
+  },
+  {
+    "stockname":"KVUE",
+    "company":"Kenvue Inc."
+  },
+  {
+    "stockname":"CVX",
+    "company":"Chevron Corporation"
+  },
+  {
+    "stockname":"MRK",
+    "company":"Merck & Co., Inc."
+  },
+  {
+    "stockname":"ARCC",
+    "company":"Ares Capital Corporation"
+  },
+  {
+    "stockname":"AES",
+    "company":"The AES Corporation"
+  },
+  {
+    "stockname":"LUMN",
+    "company":"Lumen Technologies, Inc."
+  },
+  {
+    "stockname":"UAL",
+    "company":"United Airlines Holdings, Inc."
+  },
+  {
+    "stockname":"HST",
+    "company":"Host Hotels & Resorts, Inc."
+  },
+  {
+    "stockname":"DOW",
+    "company":"Dow Inc."
+  },
+  {
+    "stockname":"OKLO",
+    "company":"Oklo Inc."
+  },
+  {
+    "stockname":"GEHC",
+    "company":"GE HealthCare Technologies Inc."
+  },
+  {
+    "stockname":"GE",
+    "company":"GE Aerospace"
+  },
+  {
+    "stockname":"VST",
+    "company":"Vistra Corp."
+  },
+  {
+    "stockname":"MS",
+    "company":"Morgan Stanley"
+  },
+  {
+    "stockname":"CCCS",
+    "company":"CCC Intelligent Solutions Holdings Inc."
+  },
+  {
+    "stockname":"YMM",
+    "company":"Full Truck Alliance Co. Ltd."
+  },
+  {
+    "stockname":"DELL",
+    "company":"Dell Technologies Inc."
+  },
+  {
+    "stockname":"DKNG",
+    "company":"DraftKings Inc."
+  },
+  {
+    "stockname":"PDI",
+    "company":"PIMCO Dynamic Income Fund"
+  },
+  {
+    "stockname":"CVE",
+    "company":"Cenovus Energy Inc."
+  },
+  {
+    "stockname":"BE",
+    "company":"Bloom Energy Corporation"
+  },
+  {
+    "stockname":"VTRS",
+    "company":"Viatris Inc."
+  },
+  {
+    "stockname":"APP",
+    "company":"AppLovin Corporation"
+  },
+  {
+    "stockname":"ITCI",
+    "company":"Intra-Cellular Therapies, Inc."
+  },
+  {
+    "stockname":"IAG",
+    "company":"IAMGOLD Corporation"
+  },
+  {
+    "stockname":"CMG",
+    "company":"Chipotle Mexican Grill, Inc."
+  },
+  {
+    "stockname":"NXE",
+    "company":"NexGen Energy Ltd."
+  },
+  {
+    "stockname":"JOBY",
+    "company":"Joby Aviation, Inc."
+  },
+  {
+    "stockname":"GGB",
+    "company":"Gerdau S.A."
+  },
+  {
+    "stockname":"XPEV",
+    "company":"XPeng Inc."
+  },
+  {
+    "stockname":"SE",
+    "company":"Sea Limited"
+  },
+  {
+    "stockname":"TTD",
+    "company":"The Trade Desk, Inc."
+  },
+  {
+    "stockname":"COP",
+    "company":"ConocoPhillips"
+  },
+  {
+    "stockname":"TGT",
+    "company":"Target Corporation"
+  },
+  {
+    "stockname":"RF",
+    "company":"Regions Financial Corporation"
+  },
+  {
+    "stockname":"AEO",
+    "company":"American Eagle Outfitters, Inc."
+  },
+  {
+    "stockname":"EPD",
+    "company":"Enterprise Products Partners L.P."
+  },
+  {
+    "stockname":"KHC",
+    "company":"The Kraft Heinz Company"
+  },
+  {
+    "stockname":"M",
+    "company":"Macy's, Inc."
+  },
+  {
+    "stockname":"MO",
+    "company":"Altria Group, Inc."
+  },
+  {
+    "stockname":"JWN",
+    "company":"Nordstrom, Inc."
+  },
+  {
+    "stockname":"MRNA",
+    "company":"Moderna, Inc."
+  },
+  {
+    "stockname":"NLY",
+    "company":"Annaly Capital Management, Inc."
+  },
+  {
+    "stockname":"IVZ",
+    "company":"Invesco Ltd."
+  },
+  {
+    "stockname":"CPNG",
+    "company":"Coupang, Inc."
+  },
+  {
+    "stockname":"NBIS",
+    "company":"Nebius Group N.V."
+  },
+  {
+    "stockname":"BILI",
+    "company":"Bilibili Inc."
+  },
+  {
+    "stockname":"PBR-A",
+    "company":"PetrÃ³leo Brasileiro S.A. - Petrobras"
+  },
+  {
+    "stockname":"HLN",
+    "company":"Haleon plc"
+  },
+  {
+    "stockname":"NWL",
+    "company":"Newell Brands Inc."
+  },
+  {
+    "stockname":"APH",
+    "company":"Amphenol Corporation"
+  },
+  {
+    "stockname":"FLEX",
+    "company":"Flex Ltd."
+  },
+  {
+    "stockname":"RDDT",
+    "company":"Reddit, Inc."
+  },
+  {
+    "stockname":"COIN",
+    "company":"Coinbase Global, Inc."
+  },
+  {
+    "stockname":"V",
+    "company":"Visa Inc."
+  },
+  {
+    "stockname":"ORCL",
+    "company":"Oracle Corporation"
+  },
+  {
+    "stockname":"AA",
+    "company":"Alcoa Corporation"
+  },
+  {
+    "stockname":"BZ",
+    "company":"Kanzhun Limited"
+  },
+  {
+    "stockname":"IOT",
+    "company":"Samsara Inc."
+  },
+  {
+    "stockname":"U",
+    "company":"Unity Software Inc."
+  },
+  {
+    "stockname":"KR",
+    "company":"The Kroger Co."
+  },
+  {
+    "stockname":"ASTS",
+    "company":"AST SpaceMobile, Inc."
+  },
+  {
+    "stockname":"TJX",
+    "company":"The TJX Companies, Inc."
+  },
+  {
+    "stockname":"DLTR",
+    "company":"Dollar Tree, Inc."
+  },
+  {
+    "stockname":"AMAT",
+    "company":"Applied Materials, Inc."
+  },
+  {
+    "stockname":"PLD",
+    "company":"Prologis, Inc."
+  },
+  {
+    "stockname":"KIM",
+    "company":"Kimco Realty Corporation"
+  },
+  {
+    "stockname":"APO",
+    "company":"Apollo Global Management, Inc."
+  },
+  {
+    "stockname":"SAN",
+    "company":"Banco Santander, S.A."
+  },
+  {
+    "stockname":"KDP",
+    "company":"Keurig Dr Pepper Inc."
+  },
+  {
+    "stockname":"BMY",
+    "company":"Bristol-Myers Squibb Company"
+  },
+  {
+    "stockname":"TAL",
+    "company":"TAL Education Group"
+  },
+  {
+    "stockname":"BX",
+    "company":"Blackstone Inc."
+  },
+  {
+    "stockname":"CHX",
+    "company":"ChampionX Corporation"
+  },
+  {
+    "stockname":"STM",
+    "company":"STMicroelectronics N.V."
+  },
+  {
+    "stockname":"UPST",
+    "company":"Upstart Holdings, Inc."
+  },
+  {
+    "stockname":"ARM",
+    "company":"Arm Holdings plc"
+  },
+  {
+    "stockname":"BIDU",
+    "company":"Baidu, Inc."
+  },
+  {
+    "stockname":"HBM",
+    "company":"Hudbay Minerals Inc."
+  },
+  {
+    "stockname":"TPR",
+    "company":"Tapestry, Inc."
+  },
+  {
+    "stockname":"WU",
+    "company":"The Western Union Company"
+  },
+  {
+    "stockname":"JNJ",
+    "company":"Johnson & Johnson"
+  },
+  {
+    "stockname":"ON",
+    "company":"ON Semiconductor Corporation"
+  },
+  {
+    "stockname":"CVS",
+    "company":"CVS Health Corporation"
+  },
+  {
+    "stockname":"RLX",
+    "company":"RLX Technology Inc."
+  },
+  {
+    "stockname":"TEM",
+    "company":"Tempus AI, Inc."
+  },
+  {
+    "stockname":"LVS",
+    "company":"Las Vegas Sands Corp."
+  },
+  {
+    "stockname":"AR",
+    "company":"Antero Resources Corporation"
+  },
+  {
+    "stockname":"MLGO",
+    "company":"MicroAlgo Inc."
+  },
+  {
+    "stockname":"ZI",
+    "company":"ZoomInfo Technologies Inc."
+  },
+  {
+    "stockname":"MGM",
+    "company":"MGM Resorts International"
+  },
+  {
+    "stockname":"CAG",
+    "company":"Conagra Brands, Inc."
+  },
+  {
+    "stockname":"EXC",
+    "company":"Exelon Corporation"
+  },
+  {
+    "stockname":"OBDC",
+    "company":"Blue Owl Capital Corporation"
+  },
+  {
+    "stockname":"TME",
+    "company":"Tencent Music Entertainment Group"
+  },
+  {
+    "stockname":"FTNT",
+    "company":"Fortinet, Inc."
+  },
+  {
+    "stockname":"TXN",
+    "company":"Texas Instruments Incorporated"
+  },
+  {
+    "stockname":"ABBV",
+    "company":"AbbVie Inc."
+  },
+  {
+    "stockname":"GT",
+    "company":"The Goodyear Tire & Rubber Company"
+  },
+  {
+    "stockname":"FHN",
+    "company":"First Horizon Corporation"
+  },
+  {
+    "stockname":"BEN",
+    "company":"Franklin Resources, Inc."
+  },
+  {
+    "stockname":"BEKE",
+    "company":"KE Holdings Inc."
+  },
+  {
+    "stockname":"CVNA",
+    "company":"Carvana Co."
+  },
+  {
+    "stockname":"BRK-B",
+    "company":"Berkshire Hathaway Inc."
+  },
+  {
+    "stockname":"PARA",
+    "company":"Paramount Global"
+  },
+  {
+    "stockname":"CELH",
+    "company":"Celsius Holdings, Inc."
+  },
+  {
+    "stockname":"PG",
+    "company":"The Procter & Gamble Company"
+  },
+  {
+    "stockname":"MDLZ",
+    "company":"Mondelez International, Inc."
+  },
+  {
+    "stockname":"ABT",
+    "company":"Abbott Laboratories"
+  },
+  {
+    "stockname":"NVO",
+    "company":"Novo Nordisk A\/S"
+  },
+  {
+    "stockname":"FLG",
+    "company":"Flagstar Financial, Inc."
+  },
+  {
+    "stockname":"DD",
+    "company":"DuPont de Nemours, Inc."
+  },
+  {
+    "stockname":"O",
+    "company":"Realty Income Corporation"
+  },
+  {
+    "stockname":"COHR",
+    "company":"Coherent Corp."
+  },
+  {
+    "stockname":"GSK",
+    "company":"GSK plc"
+  },
+  {
+    "stockname":"RITM",
+    "company":"Rithm Capital Corp."
+  },
+  {
+    "stockname":"MTCH",
+    "company":"Match Group, Inc."
+  },
+  {
+    "stockname":"PAA",
+    "company":"Plains All American Pipeline, L.P."
+  },
+  {
+    "stockname":"UA",
+    "company":"Under Armour, Inc."
+  },
+  {
+    "stockname":"DIDIY",
+    "company":"DiDi Global Inc."
+  },
+  {
+    "stockname":"TOST",
+    "company":"Toast, Inc."
+  },
+  {
+    "stockname":"GNW",
+    "company":"Genworth Financial, Inc."
+  },
+  {
+    "stockname":"COF",
+    "company":"Capital One Financial Corporation"
+  },
+  {
+    "stockname":"SU",
+    "company":"Suncor Energy Inc."
+  },
+  {
+    "stockname":"GILD",
+    "company":"Gilead Sciences, Inc."
+  },
+  {
+    "stockname":"MDT",
+    "company":"Medtronic plc"
+  },
+  {
+    "stockname":"EL",
+    "company":"The EstÃ©e Lauder Companies Inc."
+  },
+  {
+    "stockname":"PEP",
+    "company":"PepsiCo, Inc."
+  },
+  {
+    "stockname":"ROIV",
+    "company":"Roivant Sciences Ltd."
+  },
+  {
+    "stockname":"PHYS",
+    "company":"Sprott Physical Gold Trust"
+  },
+  {
+    "stockname":"MOS",
+    "company":"The Mosaic Company"
+  },
+  {
+    "stockname":"MAT",
+    "company":"Mattel, Inc."
+  },
+  {
+    "stockname":"ALIT",
+    "company":"Alight, Inc."
+  },
+  {
+    "stockname":"EXE",
+    "company":"Expand Energy Corporation"
+  },
+  {
+    "stockname":"PM",
+    "company":"Philip Morris International Inc."
+  },
+  {
+    "stockname":"BBWI",
+    "company":"Bath & Body Works, Inc."
+  },
+  {
+    "stockname":"VICI",
+    "company":"VICI Properties Inc."
+  },
+  {
+    "stockname":"BTI",
+    "company":"British American Tobacco p.l.c."
+  },
+  {
+    "stockname":"AMT",
+    "company":"American Tower Corporation"
+  },
+  {
+    "stockname":"DG",
+    "company":"Dollar General Corporation"
+  },
+  {
+    "stockname":"OKE",
+    "company":"ONEOK, Inc."
+  },
+  {
+    "stockname":"CLVT",
+    "company":"Clarivate Plc"
+  },
+  {
+    "stockname":"GLW",
+    "company":"Corning Incorporated"
+  },
+  {
+    "stockname":"FITB",
+    "company":"Fifth Third Bancorp"
+  },
+  {
+    "stockname":"CLS",
+    "company":"Celestica Inc."
+  },
+  {
+    "stockname":"CZR",
+    "company":"Caesars Entertainment, Inc."
+  },
+  {
+    "stockname":"RH",
+    "company":"RH"
+  },
+  {
+    "stockname":"SYF",
+    "company":"Synchrony Financial"
+  },
+  {
+    "stockname":"RBLX",
+    "company":"Roblox Corporation"
+  },
+  {
+    "stockname":"XP",
+    "company":"XP Inc."
+  },
+  {
+    "stockname":"SHEL",
+    "company":"Shell plc"
+  },
+  {
+    "stockname":"CEG",
+    "company":"Constellation Energy Corporation"
+  },
+  {
+    "stockname":"HMY",
+    "company":"Harmony Gold Mining Company Limited"
+  },
+  {
+    "stockname":"ABNB",
+    "company":"Airbnb, Inc."
+  },
+  {
+    "stockname":"STX",
+    "company":"Seagate Technology Holdings plc"
+  },
+  {
+    "stockname":"SIRI",
+    "company":"Sirius XM Holdings Inc."
+  },
+  {
+    "stockname":"AS",
+    "company":"Amer Sports, Inc."
+  },
+  {
+    "stockname":"ELAN",
+    "company":"Elanco Animal Health Incorporated"
+  },
+  {
+    "stockname":"DHI",
+    "company":"D.R. Horton, Inc."
+  },
+  {
+    "stockname":"WIT",
+    "company":"Wipro Limited"
+  },
+  {
+    "stockname":"CCJ",
+    "company":"Cameco Corporation"
+  },
+  {
+    "stockname":"COMP",
+    "company":"Compass, Inc."
+  },
+  {
+    "stockname":"TECK",
+    "company":"Teck Resources Limited"
+  },
+  {
+    "stockname":"ALLY",
+    "company":"Ally Financial Inc."
+  },
+  {
+    "stockname":"CRH",
+    "company":"CRH plc"
+  },
+  {
+    "stockname":"PANW",
+    "company":"Palo Alto Networks, Inc."
+  },
+  {
+    "stockname":"MET",
+    "company":"MetLife, Inc."
+  },
+  {
+    "stockname":"ENTG",
+    "company":"Entegris, Inc."
+  },
+  {
+    "stockname":"X",
+    "company":"United States Steel Corporation"
+  },
+  {
+    "stockname":"MLCO",
+    "company":"Melco Resorts & Entertainment Limited"
+  },
+  {
+    "stockname":"MMM",
+    "company":"3M Company"
+  },
+  {
+    "stockname":"EOG",
+    "company":"EOG Resources, Inc."
+  },
+  {
+    "stockname":"UNH",
+    "company":"UnitedHealth Group Incorporated"
+  },
+  {
+    "stockname":"CFG",
+    "company":"Citizens Financial Group, Inc."
+  },
+  {
+    "stockname":"YUMC",
+    "company":"Yum China Holdings, Inc."
+  },
+  {
+    "stockname":"FIS",
+    "company":"Fidelity National Information Services, Inc."
+  },
+  {
+    "stockname":"MFG",
+    "company":"Mizuho Financial Group, Inc."
+  },
+  {
+    "stockname":"CHWY",
+    "company":"Chewy, Inc."
+  },
+  {
+    "stockname":"CNQ",
+    "company":"Canadian Natural Resources Limited"
+  },
+  {
+    "stockname":"MNST",
+    "company":"Monster Beverage Corporation"
+  },
+  {
+    "stockname":"UPS",
+    "company":"United Parcel Service, Inc."
+  },
+  {
+    "stockname":"CRM",
+    "company":"Salesforce, Inc."
+  },
+  {
+    "stockname":"TU",
+    "company":"TELUS Corporation"
+  },
+  {
+    "stockname":"LSCC",
+    "company":"Lattice Semiconductor Corporation"
+  },
+  {
+    "stockname":"SARO",
+    "company":"StandardAero, Inc."
+  },
+  {
+    "stockname":"CRDO",
+    "company":"Credo Technology Group Holding Ltd"
+  },
+  {
+    "stockname":"DECK",
+    "company":"Deckers Outdoor Corporation"
+  },
+  {
+    "stockname":"AXP",
+    "company":"American Express Company"
+  },
+  {
+    "stockname":"EBAY",
+    "company":"eBay Inc."
+  },
+  {
+    "stockname":"PPL",
+    "company":"PPL Corporation"
+  },
+  {
+    "stockname":"SO",
+    "company":"The Southern Company"
+  },
+  {
+    "stockname":"RIO",
+    "company":"Rio Tinto Group"
+  },
+  {
+    "stockname":"COTY",
+    "company":"Coty Inc."
+  },
+  {
+    "stockname":"MP",
+    "company":"MP Materials Corp."
+  },
+  {
+    "stockname":"CAVA",
+    "company":"CAVA Group, Inc."
+  },
+  {
+    "stockname":"NI",
+    "company":"NiSource Inc."
+  },
+  {
+    "stockname":"FUTU",
+    "company":"Futu Holdings Limited"
+  },
+  {
+    "stockname":"OVV",
+    "company":"Ovintiv Inc."
+  },
+  {
+    "stockname":"S",
+    "company":"SentinelOne, Inc."
+  },
+  {
+    "stockname":"LULU",
+    "company":"lululemon athletica inc."
+  },
+  {
+    "stockname":"LI",
+    "company":"Li Auto Inc."
+  },
+  {
+    "stockname":"CNP",
+    "company":"CenterPoint Energy, Inc."
+  },
+  {
+    "stockname":"LYB",
+    "company":"LyondellBasell Industries N.V."
+  },
+  {
+    "stockname":"ETSY",
+    "company":"Etsy, Inc."
+  },
+  {
+    "stockname":"GFI",
+    "company":"Gold Fields Limited"
+  },
+  {
+    "stockname":"BECN",
+    "company":"Beacon Roofing Supply, Inc."
+  },
+  {
+    "stockname":"AZN",
+    "company":"AstraZeneca PLC"
+  },
+  {
+    "stockname":"MCD",
+    "company":"McDonald's Corporation"
+  },
+  {
+    "stockname":"WYNN",
+    "company":"Wynn Resorts, Limited"
+  },
+  {
+    "stockname":"IPG",
+    "company":"The Interpublic Group of Companies, Inc."
+  },
+  {
+    "stockname":"TRGP",
+    "company":"Targa Resources Corp."
+  },
+  {
+    "stockname":"GEV",
+    "company":"GE Vernova Inc."
+  },
+  {
+    "stockname":"ADI",
+    "company":"Analog Devices, Inc."
+  },
+  {
+    "stockname":"BHP",
+    "company":"BHP Group Limited"
+  },
+  {
+    "stockname":"SONY",
+    "company":"Sony Group Corporation"
+  },
+  {
+    "stockname":"FTI",
+    "company":"TechnipFMC plc"
+  },
+  {
+    "stockname":"SNOW",
+    "company":"Snowflake Inc."
+  },
+  {
+    "stockname":"ARES",
+    "company":"Ares Management Corporation"
+  },
+  {
+    "stockname":"ETR",
+    "company":"Entergy Corporation"
+  },
+  {
+    "stockname":"ENB",
+    "company":"Enbridge Inc."
+  },
+  {
+    "stockname":"BBY",
+    "company":"Best Buy Co., Inc."
+  },
+  {
+    "stockname":"GIS",
+    "company":"General Mills, Inc."
+  },
+  {
+    "stockname":"HDB",
+    "company":"HDFC Bank Limited"
+  },
+  {
+    "stockname":"TCOM",
+    "company":"Trip.com Group Limited"
+  },
+  {
+    "stockname":"PENN",
+    "company":"PENN Entertainment, Inc."
+  },
+  {
+    "stockname":"DDOG",
+    "company":"Datadog, Inc."
+  },
+  {
+    "stockname":"NOV",
+    "company":"NOV Inc."
+  },
+  {
+    "stockname":"OKTA",
+    "company":"Okta, Inc."
+  },
+  {
+    "stockname":"STNE",
+    "company":"StoneCo Ltd."
+  },
+  {
+    "stockname":"VLO",
+    "company":"Valero Energy Corporation"
+  },
+  {
+    "stockname":"NE",
+    "company":"Noble Corporation plc"
+  },
+  {
+    "stockname":"CL",
+    "company":"Colgate-Palmolive Company"
+  },
+  {
+    "stockname":"IP",
+    "company":"International Paper Company"
+  },
+  {
+    "stockname":"AEM",
+    "company":"Agnico Eagle Mines Limited"
+  },
+  {
+    "stockname":"TSCO",
+    "company":"Tractor Supply Company"
+  },
+  {
+    "stockname":"AEP",
+    "company":"American Electric Power Company, Inc."
+  },
+  {
+    "stockname":"PAAS",
+    "company":"Pan American Silver Corp."
+  },
+  {
+    "stockname":"EQH",
+    "company":"Equitable Holdings, Inc."
+  },
+  {
+    "stockname":"GS",
+    "company":"The Goldman Sachs Group, Inc."
+  },
+  {
+    "stockname":"D",
+    "company":"Dominion Energy, Inc."
+  },
+  {
+    "stockname":"DB",
+    "company":"Deutsche Bank Aktiengesellschaft"
+  },
+  {
+    "stockname":"SG",
+    "company":"Sweetgreen, Inc."
+  },
+  {
+    "stockname":"CFLT",
+    "company":"Confluent, Inc."
+  },
+  {
+    "stockname":"RPRX",
+    "company":"Royalty Pharma plc"
+  },
+  {
+    "stockname":"CG",
+    "company":"The Carlyle Group Inc."
+  },
+  {
+    "stockname":"DHR",
+    "company":"Danaher Corporation"
+  },
+  {
+    "stockname":"SKX",
+    "company":"Skechers U.S.A., Inc."
+  },
+  {
+    "stockname":"LEN",
+    "company":"Lennar Corporation"
+  },
+  {
+    "stockname":"JCI",
+    "company":"Johnson Controls International plc"
+  },
+  {
+    "stockname":"SWK",
+    "company":"Stanley Black & Decker, Inc."
+  },
+  {
+    "stockname":"DUK",
+    "company":"Duke Energy Corporation"
+  },
+  {
+    "stockname":"CRWD",
+    "company":"CrowdStrike Holdings, Inc."
+  },
+  {
+    "stockname":"PAYO",
+    "company":"Payoneer Global Inc."
+  },
+  {
+    "stockname":"HON",
+    "company":"Honeywell International Inc."
+  },
+  {
+    "stockname":"IBN",
+    "company":"ICICI Bank Limited"
+  },
+  {
+    "stockname":"CARR",
+    "company":"Carrier Global Corporation"
+  },
+  {
+    "stockname":"ROKU",
+    "company":"Roku, Inc."
+  },
+  {
+    "stockname":"BN",
+    "company":"Brookfield Corporation"
+  },
+  {
+    "stockname":"CNC",
+    "company":"Centene Corporation"
+  },
+  {
+    "stockname":"NRG",
+    "company":"NRG Energy, Inc."
+  },
+  {
+    "stockname":"RTX",
+    "company":"RTX Corporation"
+  },
+  {
+    "stockname":"CP",
+    "company":"Canadian Pacific Kansas City Limited"
+  },
+  {
+    "stockname":"CPRT",
+    "company":"Copart, Inc."
+  },
+  {
+    "stockname":"SN",
+    "company":"SharkNinja, Inc."
+  },
+  {
+    "stockname":"ZETA",
+    "company":"Zeta Global Holdings Corp."
+  },
+  {
+    "stockname":"TER",
+    "company":"Teradyne, Inc."
+  },
+  {
+    "stockname":"PGR",
+    "company":"The Progressive Corporation"
+  },
+  {
+    "stockname":"SRE",
+    "company":"Sempra"
+  },
+  {
+    "stockname":"WY",
+    "company":"Weyerhaeuser Company"
+  },
+  {
+    "stockname":"BDX",
+    "company":"Becton, Dickinson and Company"
+  },
+  {
+    "stockname":"NET",
+    "company":"Cloudflare, Inc."
+  },
+  {
+    "stockname":"CAT",
+    "company":"Caterpillar Inc."
+  },
+  {
+    "stockname":"NWG",
+    "company":"NatWest Group plc"
+  },
+  {
+    "stockname":"FE",
+    "company":"FirstEnergy Corp."
+  },
+  {
+    "stockname":"UWMC",
+    "company":"UWM Holdings Corporation"
+  },
+  {
+    "stockname":"IR",
+    "company":"Ingersoll Rand Inc."
+  },
+  {
+    "stockname":"UBS",
+    "company":"UBS Group AG"
+  },
+  {
+    "stockname":"DASH",
+    "company":"DoorDash, Inc."
+  },
+  {
+    "stockname":"WSC",
+    "company":"WillScot Holdings Corporation"
+  },
+  {
+    "stockname":"DINO",
+    "company":"HF Sinclair Corporation"
+  },
+  {
+    "stockname":"HOLX",
+    "company":"Hologic, Inc."
+  },
+  {
+    "stockname":"HD",
+    "company":"The Home Depot, Inc."
+  },
+  {
+    "stockname":"NXPI",
+    "company":"NXP Semiconductors N.V."
+  },
+  {
+    "stockname":"PSX",
+    "company":"Phillips 66"
+  },
+  {
+    "stockname":"CTVA",
+    "company":"Corteva, Inc."
+  },
+  {
+    "stockname":"WSM",
+    "company":"Williams-Sonoma, Inc."
+  },
+  {
+    "stockname":"ED",
+    "company":"Consolidated Edison, Inc."
+  },
+  {
+    "stockname":"HUN",
+    "company":"Huntsman Corporation"
+  },
+  {
+    "stockname":"ING",
+    "company":"ING Groep N.V."
+  },
+  {
+    "stockname":"IBM",
+    "company":"International Business Machines Corporation"
+  },
+  {
+    "stockname":"TMUS",
+    "company":"T-Mobile US, Inc."
+  },
+  {
+    "stockname":"GPN",
+    "company":"Global Payments Inc."
+  },
+  {
+    "stockname":"FRO",
+    "company":"Frontline plc"
+  },
+  {
+    "stockname":"PAGS",
+    "company":"PagSeguro Digital Ltd."
+  },
+  {
+    "stockname":"PTY",
+    "company":"PIMCO Corporate & Income Opportunity Fund"
+  },
+  {
+    "stockname":"EQNR",
+    "company":"Equinor ASA"
+  },
+  {
+    "stockname":"STWD",
+    "company":"Starwood Property Trust, Inc."
+  },
+  {
+    "stockname":"BANC",
+    "company":"Banc of California, Inc."
+  },
+  {
+    "stockname":"HWM",
+    "company":"Howmet Aerospace Inc."
+  },
+  {
+    "stockname":"VKTX",
+    "company":"Viking Therapeutics, Inc."
+  },
+  {
+    "stockname":"FIVE",
+    "company":"Five Below, Inc."
+  },
+  {
+    "stockname":"PCAR",
+    "company":"PACCAR Inc"
+  },
+  {
+    "stockname":"AGI",
+    "company":"Alamos Gold Inc."
+  },
+  {
+    "stockname":"Z",
+    "company":"Zillow Group, Inc."
+  },
+  {
+    "stockname":"JNPR",
+    "company":"Juniper Networks, Inc."
+  },
+  {
+    "stockname":"PRMB",
+    "company":"Primo Brands Corporation"
+  },
+  {
+    "stockname":"VIK",
+    "company":"Viking Holdings Ltd"
+  },
+  {
+    "stockname":"MA",
+    "company":"Mastercard Incorporated"
+  },
+  {
+    "stockname":"OSCR",
+    "company":"Oscar Health, Inc."
+  },
+  {
+    "stockname":"APTV",
+    "company":"Aptiv PLC"
+  },
+  {
+    "stockname":"SWKS",
+    "company":"Skyworks Solutions, Inc."
+  },
+  {
+    "stockname":"NFLX",
+    "company":"Netflix, Inc."
+  },
+  {
+    "stockname":"RRC",
+    "company":"Range Resources Corporation"
+  },
+  {
+    "stockname":"SW",
+    "company":"Smurfit Westrock Plc"
+  },
+  {
+    "stockname":"UL",
+    "company":"Unilever PLC"
+  },
+  {
+    "stockname":"LITE",
+    "company":"Lumentum Holdings Inc."
+  },
+  {
+    "stockname":"MPC",
+    "company":"Marathon Petroleum Corporation"
+  },
+  {
+    "stockname":"EW",
+    "company":"Edwards Lifesciences Corporation"
+  },
+  {
+    "stockname":"EMR",
+    "company":"Emerson Electric Co."
+  },
+  {
+    "stockname":"FND",
+    "company":"Floor & Decor Holdings, Inc."
+  },
+  {
+    "stockname":"COLD",
+    "company":"Americold Realty Trust, Inc."
+  },
+  {
+    "stockname":"CME",
+    "company":"CME Group Inc."
+  },
+  {
+    "stockname":"AM",
+    "company":"Antero Midstream Corporation"
+  },
+  {
+    "stockname":"NVST",
+    "company":"Envista Holdings Corporation"
+  },
+  {
+    "stockname":"EC",
+    "company":"Ecopetrol S.A."
+  },
+  {
+    "stockname":"VAL",
+    "company":"Valaris Limited"
+  },
+  {
+    "stockname":"CIEN",
+    "company":"Ciena Corporation"
+  },
+  {
+    "stockname":"PTVE",
+    "company":"Pactiv Evergreen Inc."
+  },
+  {
+    "stockname":"ADM",
+    "company":"Archer-Daniels-Midland Company"
+  },
+  {
+    "stockname":"GTES",
+    "company":"Gates Industrial Corporation plc"
+  },
+  {
+    "stockname":"ACI",
+    "company":"Albertsons Companies, Inc."
+  },
+  {
+    "stockname":"GPK",
+    "company":"Graphic Packaging Holding Company"
+  },
+  {
+    "stockname":"URBN",
+    "company":"Urban Outfitters, Inc."
+  },
+  {
+    "stockname":"TPG",
+    "company":"TPG Inc."
+  },
+  {
+    "stockname":"PCVX",
+    "company":"Vaxcyte, Inc."
+  },
+  {
+    "stockname":"ALB",
+    "company":"Albemarle Corporation"
+  },
+  {
+    "stockname":"ROST",
+    "company":"Ross Stores, Inc."
+  },
+  {
+    "stockname":"MTDR",
+    "company":"Matador Resources Company"
+  },
+  {
+    "stockname":"FYBR",
+    "company":"Frontier Communications Parent, Inc."
+  },
+  {
+    "stockname":"WEN",
+    "company":"The Wendy's Company"
+  },
+  {
+    "stockname":"BK",
+    "company":"The Bank of New York Mellon Corporation"
+  },
+  {
+    "stockname":"ALAB",
+    "company":"Astera Labs, Inc."
+  },
+  {
+    "stockname":"NTR",
+    "company":"Nutrien Ltd."
+  },
+  {
+    "stockname":"DXCM",
+    "company":"DexCom, Inc."
+  },
+  {
+    "stockname":"UNP",
+    "company":"Union Pacific Corporation"
+  },
+  {
+    "stockname":"FANG",
+    "company":"Diamondback Energy, Inc."
+  },
+  {
+    "stockname":"NVT",
+    "company":"nVent Electric plc"
+  },
+  {
+    "stockname":"TRP",
+    "company":"TC Energy Corporation"
+  },
+  {
+    "stockname":"FNMA",
+    "company":"Federal National Mortgage Association"
+  },
+  {
+    "stockname":"XEL",
+    "company":"Xcel Energy Inc."
+  },
+  {
+    "stockname":"OTIS",
+    "company":"Otis Worldwide Corporation"
+  },
+  {
+    "stockname":"TRU",
+    "company":"TransUnion"
+  },
+  {
+    "stockname":"SSL",
+    "company":"Sasol Limited"
+  },
+  {
+    "stockname":"ICE",
+    "company":"Intercontinental Exchange, Inc."
+  },
+  {
+    "stockname":"LXP",
+    "company":"LXP Industrial Trust"
+  },
+  {
+    "stockname":"ZS",
+    "company":"Zscaler, Inc."
+  },
+  {
+    "stockname":"ETN",
+    "company":"Eaton Corporation plc"
+  },
+  {
+    "stockname":"FSK",
+    "company":"FS KKR Capital Corp."
+  },
+  {
+    "stockname":"GEN",
+    "company":"Gen Digital Inc."
+  },
+  {
+    "stockname":"AI",
+    "company":"C3.ai, Inc."
+  },
+  {
+    "stockname":"AZEK",
+    "company":"The AZEK Company Inc."
+  },
+  {
+    "stockname":"YPF",
+    "company":"YPF Sociedad AnÃ³nima"
+  },
+  {
+    "stockname":"AMGN",
+    "company":"Amgen Inc."
+  },
+  {
+    "stockname":"CRK",
+    "company":"Comstock Resources, Inc."
+  },
+  {
+    "stockname":"BCE",
+    "company":"BCE Inc."
+  },
+  {
+    "stockname":"BAX",
+    "company":"Baxter International Inc."
+  },
+  {
+    "stockname":"MMC",
+    "company":"Marsh & McLennan Companies, Inc."
+  },
+  {
+    "stockname":"ONB",
+    "company":"Old National Bancorp"
+  },
+  {
+    "stockname":"SYY",
+    "company":"Sysco Corporation"
+  },
+  {
+    "stockname":"FRSH",
+    "company":"Freshworks Inc."
+  },
+  {
+    "stockname":"SRCL",
+    "company":"Stericycle, Inc."
+  },
+  {
+    "stockname":"HSBC",
+    "company":"HSBC Holdings plc"
+  },
+  {
+    "stockname":"SAND",
+    "company":"Sandstorm Gold Ltd."
+  },
+  {
+    "stockname":"MBLY",
+    "company":"Mobileye Global Inc."
+  },
+  {
+    "stockname":"PAGP",
+    "company":"Plains GP Holdings, L.P."
+  },
+  {
+    "stockname":"DOC",
+    "company":"Healthpeak Properties, Inc."
+  },
+  {
+    "stockname":"K",
+    "company":"Kellanova"
+  },
+  {
+    "stockname":"OGN",
+    "company":"Organon & Co."
+  },
+  {
+    "stockname":"MAC",
+    "company":"The Macerich Company"
+  }
+]
