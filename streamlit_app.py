@@ -57,11 +57,14 @@ with col2:
 @st.cache_data
 def get_bist100_stocks():
     try:
-        df = pd.read_excel("listofstocks.xlsx")
-        return sorted(df["stockname"].values)
-    except:
-        st.error("`listofstocks.xlsx` dosyası bulunamadı!")
-        return ["THYAO.IS"]
+        df = pd.read_json(
+            "https://raw.githubusercontent.com/tolgakurtuluss/my-wavetrend-app/refs/heads/main/listofstocks.json"
+        )
+        stocks = df["stockname"].dropna().unique().tolist()
+        return sorted(stocks)
+    except Exception as e:
+        st.error(f"JSON dosyası okunamadı: {e}")
+        return ["THYAO.IS"]  # fallback
 
 
 bist_stocks = get_bist100_stocks()
@@ -83,7 +86,7 @@ def sma(series, span):
 # ==============================
 @st.cache_data(show_spinner=False)
 def get_wt_data(ticker, period):
-    data = yf.download(ticker, period=period, progress=False)
+    data = yf.download(ticker, period=period, auto_adjust=False)
     if data.empty:
         return None, None, None
 
@@ -117,7 +120,7 @@ def backtest_strategy(data, buy_signals, sell_signals, initial_capital):
     trades = portfolio = []
 
     for i, (date, row) in enumerate(data.iterrows()):
-        price = float(row["Close"])
+        price = float(row["Close"].iloc[0])
         current_value = capital if shares == 0 else shares * price
 
         if buy_signals.iloc[i] and shares == 0:
@@ -181,7 +184,7 @@ def get_current_info(ticker):
 #   SİDEBAR
 # ==============================
 with st.sidebar:
-    st.image("https://via.placeholder.com/150x50.png?text=Logo", width=150)
+    st.markdown("WaveTrend Pro")
     st.markdown("---")
     st.markdown("### Analiz Ayarları")
 
@@ -285,9 +288,9 @@ if st.button("Analizi Başlat", type="primary", width="stretch"):
                         last = data.iloc[-1]
                         st.markdown("### Teknik Göstergeler")
                         cols = st.columns(3)
-                        cols[0].metric("WT1", f"{float(last['wt1']):.2f}")
-                        cols[1].metric("WT2", f"{float(last['wt2']):.2f}")
-                        ao_val = float(last["ao"])
+                        cols[0].metric("WT1", f"{float(last['wt1'].iloc[0]):.2f}")
+                        cols[1].metric("WT2", f"{float(last['wt2'].iloc[0]):.2f}")
+                        ao_val = float(last["ao"].iloc[0])
                         cols[2].metric(
                             "AO",
                             f"{ao_val:.2f}",
@@ -314,7 +317,7 @@ if st.button("Analizi Başlat", type="primary", width="stretch"):
                         df_disp = trades_df.copy()
                         df_disp["Fiyat"] = df_disp["Fiyat"].map("{:.4f}".format)
                         df_disp["Yatırım"] = df_disp["Yatırım"].map("{:,.2f}".format)
-                        st.dataframe(df_disp, use_container_width=True)
+                        st.dataframe(df_disp, width="stretch")
                         st.download_button(
                             "CSV İndir",
                             df_disp.to_csv(index=False).encode("utf-8"),
